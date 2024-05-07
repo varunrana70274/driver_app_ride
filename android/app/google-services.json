@@ -1,0 +1,87 @@
+{
+  "project_info": {
+    "project_number": "187472603107",
+    "firebase_url": "https://pay-ride-default-rtdb.firebaseio.com",
+    "project_id": "pay-ride",
+    "storage_bucket": "pay-ride.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187472603107:android:08a586afaadf214be8e2d6",
+        "android_client_info": {
+          "package_name": "com.payride"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZLFJemJmB1w8vizclER7poR84ZSQnAwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187472603107:android:c717e57dd8d0381ee8e2d6",
+        "android_client_info": {
+          "package_name": "com.payride.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZLFJemJmB1w8vizclER7poR84ZSQnAwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187472603107:android:04959e3a0a86930ae8e2d6",
+        "android_client_info": {
+          "package_name": "com.payride.driver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZLFJemJmB1w8vizclER7poR84ZSQnAwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187472603107:android:e307e1de71e6dcd9e8e2d6",
+        "android_client_info": {
+          "package_name": "com.payridedrivers.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZLFJemJmB1w8vizclER7poR84ZSQnAwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

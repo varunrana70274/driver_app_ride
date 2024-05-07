@@ -1,0 +1,56 @@
+const COLORS = {
+  //PrimaryColor: '#1f2a80',
+  background: '#ffffff',
+  buttonGreen: '#40BA52',
+  buttonRed: '#E93F18',
+  placeholderColor: '#818e97',
+  photoBorder: '#FC68A7',
+  bottomBorder: '#c6c6c6', //'#d1d1d1'
+  placeholderTextColor: '#818e97',
+  White: 'white',
+  Black: '#000000',
+  //buttonGreen: '#40BA52',
+  iYellow: '#e1b300',
+  iRed: '#8B0000',
+
+  buttonsColor: '#1f2a80',
+  graylights: '#f7f8f9',
+  graylightss: '#f7f9f0',
+  graylighted: '#F0F0F0',
+  graylight: '#C0C0C0',
+
+  colorLight: '#97ADB6',
+  colorDark: '#075E54',
+  FontDarkColor: '#3E4958',
+  FontMediumDark: '#736F6F',
+  ColorSignup: '#1f2a80',
+  textGray1: '#6D6D6D',
+
+  // TaxiApp Colors
+  PrimaryColor: '#020944',
+  SecondaryColor: '#31sds3',
+  LightBlack: '#919191',
+  lightGrey: '#7B7A7A',
+  LightestGrey: '#C4C4C4',
+  ButtonColor: '#020944',
+  TeelColor: '#04AFE6',
+  TeelColor2: '#3288af',
+  GreyColor: '#06060a',
+  cyan: '#04AFE6',
+  greyLight: '#E5E5E5',
+  greyWhite: '#f4f4f4',
+  grayBackground: '#e0e0e0',
+  // -- Driver--
+  pColor: '#007dd6', //  pColor: '#1f2a81',
+  sColor: '#0092f9',
+  greyLightBorder: '#E5E5E5',
+  greyLightImg: '#E7E8EA',
+  goldenYellow: '#fec516',
+  lightBlueColor: '#029ED6',
+  lightBlue: '#E3F4FB',
+  multilineInputBackColor: '#F6F6F6',
+  Green: '#00990F',
+  bronzeBackView: '#F4F3F3',
+};
+
+export default COLORS;

@@ -1,0 +1,1783 @@
+{
+    "AX": {
+        "currency": [
+            "EUR"
+        ],
+        "callingCode": [
+            "358"
+        ],
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "flag": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAeCAMAAABpA6zvAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAIRQTFRFAFOlAFOlnZ8//9IA+rkG2Cgt0g400Q0152gc/9AA9ckGPnF9AFGnAFGonZ5A9ckHPm9/AE+qbIdfxrMl/9EA+csEj5hIaoZh/88A2Ckt/84A/skB/soB+bQH5mUd/ssB3kQm3T4n1Bcy0hA00g803kUm30Um30Ula4dgaYZh+rgG////mzb/7wAAAAF0Uk5T/hrjB30AAAABYktHRCskueQIAAAACXBIWXMAAABIAAAASABGyWs+AAAAkUlEQVQ4y2NghAMmZhZWNnYOTi5uHkZMwDCqkDoKeeGAD6qQX0CQFxMwCMGBsAhEoaiYuBAmYJBAAE4WSZBCKQlsgEEaAWRkgSbKyUtjBQwKSEBRSVmFVVUBK2BgRwbKysoq7NgB8QqRTFcDW62Ow2qiPUN08GjAASLANTUwAfFROBTS4xBTKKIlqQIKcGwKGQCIhy8sc3x++AAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAxMy0xMC0wN1QxMzoxNToxOSswMjowMC/GJUYAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMTMtMTAtMDdUMTM6MTU6MTkrMDI6MDBem536AAAAAElFTkSuQmCC",
+        "name": {
+            "common": "Åland Islands",
+            "ces": "Ålandy",
+            "deu": "Åland",
+            "fra": "Ahvenanmaa",
+            "hrv": "Ålandski otoci",
+            "ita": "Isole Aland",
+            "jpn": "オーランド諸島",
+            "nld": "Ålandeilanden",
+            "por": "Alândia",
+            "rus": "Аландские острова",
+            "slk": "Alandy",
+            "spa": "Alandia",
+            "fin": "Ahvenanmaa",
+            "est": "Ahvenamaa",
+            "zho": "奥兰群岛",
+            "pol": "Wyspy Alandzkie",
+            "urd": "جزائر اولند",
+            "kor": "올란드 제도"
+        }
+    },
+    "CZ": {
+        "currency": [
+            "CZK"
+        ],
+        "callingCode": [
+            "420"
+        ],
+        "region": "Europe",
+        "subregion": "Eastern Europe",
+        "flag": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAeCAMAAABpA6zvAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAARFQTFRFT0+c5OTw////+/v9/f3+AABnGBh7rKzR/Pz9AgJxAgJrAABlVlag6urzAABvAgJwBARxFhZ5q6vQAwNyAgJsAABmV1eh6+vzFxd6WFii6+v0ra3RWVmi7Oz0GBh6rq7SWlqjr6/SW1uj7e31/v39//7+GRl7sLDS/v7+AgFqUF2r7ubs/+/u/O3t/e7uAwBtAQJ0AAN2UAA43AsO7BMS6RER6hERAgBuAwBuAAB3HQBiqQAe/AMA6wEB5gAA6AAAAQByAAB0XABC4QAG9gAA5AAC5wEB6AEBqAAe+QAA6wAB5AAB5wABHABiHABjpwAeWwBC+AAA4AAGpwAfAgBtAQBzAAB1WgBDHgBiVQBG3AAIE5FEqAAAAAFiS0dEAmYLfGQAAAAJcEhZcwAAAEgAAABIAEbJaz4AAAEBSURBVDjLjc5nUwIxFIXhGKqUFVCQqlIUFRWlW3ClY6WoiP7/H+LeDAwku8nlfH7nmUPIFrXZKT7icLqo3b1BuO3x+vwboETbCXiDIRwlmqbt7oUj+xgKIaBR7CkLGRqLK9FFyNCECl2GDE2m5OgqBPTgUIquhYA6jmQoFwLqTFujfMjQTJbacsfixBDQkzw9RUVAz8LnhYvLK34WYfH6plSuVGv8TGG9cXt3/9B81IWJYfGp1e50e/2BOGLihs8vr7p5xIJ709Whwb1LOC5UcWuhwX2MpNwqNLixgluGjJsouEUI3FTJsRC4T4SD8Ot79oNyEM7mQ5yD8PdvgnPG/gE0npRdY58b+QAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAxMy0xMC0wN1QxMzoxNDo0OSswMjowMIjkQBwAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMTMtMTAtMDdUMTM6MTQ6NDkrMDI6MDD5ufigAAAAAElFTkSuQmCC",
+        "name": {
+            "common": "Czechia",
+            "ces": "Česko",
+            "cym": "Y Weriniaeth Tsiec",
+            "deu": "Tschechien",
+            "fra": "Tchéquie",
+            "hrv": "Češka",
+            "ita": "Cechia",
+            "jpn": "チェコ",
+            "nld": "Tsjechië",
+            "por": "Chéquia",
+            "rus": "Чехия",
+            "slk": "Česko",
+            "spa": "Chequia",
+            "fin": "Tšekki",
+            "est": "Tšehhi",
+            "zho": "捷克",
+            "pol": "Czechy",
+            "urd": "چيک",
+            "kor": "체코"
+        }
+    },
+    "FO": {
+        "currency": [
+            "DKK"
+        ],
+        "callingCode": [
+            "298"
+        ],
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "flag": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAeCAMAAABpA6zvAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAMNQTFRF/////P3+v8riADCagzBW4yci4CcjnjBJACyVoLPW+/z9/Pz++/z++Pr8vMjhADGani9JACyWnbHV+Pn8tMLeq7varbzbrLzbqrratcPeg5nHADOagzBVnS5IADCWbom/uMXfF0ChACmWAS6YAC2XACyXAzCXADumgC9X4ychmi1JADukAjGZAC2YnENfkCxMkzFPkjBPki9Oii5Quio32ygm2igmwyoziy1P5Ds34SQf4igj4icj4Scj4ici1igo1ygoNxdWNQAAAAFiS0dEAIgFHUgAAAAJcEhZcwAAAEgAAABIAEbJaz4AAACaSURBVDjLY2CAAUYGJmYWVjZ2Dk4GLgZ8YFQhRQq5uXgggJeBjx+oUEBQiEGYBxOgmMiPz0QRUTFxMJCQlJKWYWWTlZNXkBDHBAyKSsoqEKCqpq6hyaalraOqq4IJGPT0DQyhwMjYxNTM3MLIEBtgsLSytoECWztTewczO1sbbIB4hURbTbRnRETFiQseogOcrCgcrOlxOCkEAAHTPL4sSadeAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDEzLTEwLTA3VDEzOjE0OjU5KzAyOjAwRE5AggAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxMy0xMC0wN1QxMzoxNDo1OSswMjowMDUT+D4AAAAASUVORK5CYII=",
+        "name": {
+            "common": "Faroe Islands",
+            "ces": "Faerské ostrovy",
+            "deu": "Färöer-Inseln",
+            "fra": "Îles Féroé",
+            "hrv": "Farski Otoci",
+            "ita": "Isole Far Oer",
+            "jpn": "フェロー諸島",
+            "nld": "Faeröer",
+            "por": "Ilhas Faroé",
+            "rus": "Фарерские острова",
+            "slk": "Faerské ostrovy",
+            "spa": "Islas Faroe",
+            "fin": "Färsaaret",
+            "est": "Fääri saared",
+            "zho": "法罗群岛",
+            "pol": "Wyspy Owcze",
+            "urd": "جزائر فارو",
+            "kor": "페로 제도"
+        }
+    },
+    "GI": {
+        "currency": [
+            "GIP"
+        ],
+        "callingCode": [
+            "350"
+        ],
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "flag": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAeCAIAAADRv8uKAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAAASAAAAEgARslrPgAABKFJREFUSMfFV02LXFUQPafuu69fz/SMnYnRSIwgAYXRjEQxoBJ0o6ioEAVFRMGPlaAb3SmSv6DuA7pU0FVcKQZ1o4gYMzHBJIZ8OcaEGae7X3+8e2+Vi04U40xPehSsxePxePecqnOr6talmeH/MPlfWAFk61hjKcEMJIDhC50bF4RrS21mZiTNjABEVvvtojfD59Ctf0V8GTr52wcfhuXfXaOBGC2pq9eveerJvzT4r6Q+/OJLqNd7R49OzM6WBw7c9O47i/v2nXn/PT/ZMDXtlTMPPjTz2KOHn34mv2Fr58cfG3Nz5fz87N69xfVbRngzMmJViMw//sTCxx8VU9Ox23MbN+787ttUlt/fs6vmHET63e6tn+xr3n3XN3O3dQ7+4KemQ7s1teOOHV/szxqNEcSjstpUAczcd99UXuTNZpHnmx+4v9iyJZy/IP2+qaom6fcG584BmLpzpy/qWbOZ5cWGhx/KGg2LcYT4a5dT7/DhpCoxUdg/fhxA/9hR6/XoRCgIsTc/D6A6NO9dVoupRoafjgLgyC0fRTwskt6x4857qpr3YeFXBcLJU7mZgDTzzqXjP1ftdv/0aea5aopZ1j9z2swwssbcnj17Vt5dsnvixJFnnxscOkRAiCgOZScs/Nr+fH9cXqZzaprEcXm5c+TI4PsD8JlTM+fY7S5++unk7TvyTZtMdcXQV04uU6VI98SJI7vuRVky96ZGwAComiq9x6WFZiZCmAE0gKSlpCHc/NWXU3Pbh1BXKjVFLMaJG2/c+uYbodNRkYyMAM02vPpK1mhoSkIIGWLwMzMbXn45Dao+KUAQie32xheen5rbbilxlYazRnJVnY4zcyCAjIRpvnmz5Z5mBgJwoAG1664TkRwgkBEEYr8/GnkN4l6rRSADKrOCTEkH/X6kFMNMgBXCEEIY9ANZJ7owDxjZb7VGI6/RuYp2e4n83ZRmyawwk6WlOtAzq0wJJLCWoi4uFSKLqmZoq3kRX5YYWVGrR0wCCJ2OkQJMiyRYAqqFBY2xIgrQgwmwmHpnzxpgwDRJGESqTmmXQMaMOCU4F9ptiNTAHJaBJlKeOqUxCKVGJiCRUVM8eTIBHizIACZhVZYWI0mIrEi/asTMMgAyGOTeJ+fUuSRSq9XCmbO5gT5LlASBzwpxdvrMhPfqnGZOnWQ+r4egKY3oIf+oYzOQsdU6+9rrWnZbn32Wzp8PWebMEuCBivRASoqGN6G0qsxJZZaTlZkHIikpyeTkzO7dpnrtnrcmtm0bnjd/k9pivIyY3luMamaw5uO7/5wuhg2EgMGYXGq26VQuNDWLBA2QYYcZwqhpu5WqYClhOLSojoz4SswM5KB1zHRQNG+BKTj27MYLb7+zMnhKqy8ylN5mzyNLPLgZEwG2avbSuYtaXfb9YJaP6SoswM+CW3Oq6bkQfgD9CtCjLcs2bRqbeAC3gcXkIKqrGj7bqKyNT3x5cl2JeYSvTR+pWV30mz6vpoWxMdYzV0PBSQx6Obvmi4tT77g2/k1CKAPt3DwTHr3KMa2PdV3EBohZicGSt4zjbu2fNr7UZurd9C+L1Qe9RLgc67v1/QETyouHxE7rGgAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAxMy0xMC0wN1QxMzoxNToyMyswMjowMAU5fesAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMTMtMTAtMDdUMTM6MTU6MjMrMDI6MDB0ZMVXAAAAAElFTkSuQmCC",
+        "name": {
+            "common": "Gibraltar",
+            "ces": "Gibraltar",
+            "deu": "Gibraltar",
+            "fra": "Gibraltar",
+            "hrv": "Gibraltar",
+            "ita": "Gibilterra",
+            "jpn": "ジブラルタル",
+            "nld": "Gibraltar",
+            "por": "Gibraltar",
+            "rus": "Гибралтар",
+            "slk": "Gibraltár",
+            "spa": "Gibraltar",
+            "fin": "Gibraltar",
+            "est": "Gibraltar",
+            "zho": "直布罗陀",
+            "pol": "Gibraltar",
+            "urd": "جبل الطارق",
+            "kor": "지브롤터"
+        }
+    },
+    "GG": {
+        "currency": [
+            "GBP"
+        ],
+        "callingCode": [
+            "44"
+        ],
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "flag": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAeCAMAAABpA6zvAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAKVQTFRF//////7+/e/x6iI85wQq5wgv5wku6SA86i8l6zkq6zMp/vHx6Ro97U8i+d8X+d8W6iU75gAs8Xoi+ugV5gAr8G0k8HEj8HAj//39/e7w/vP0/ODk6iQ66iU86Rkt5wYu8HEi6A0p6A4p5wUq5gEr5QAx72cj+ukV6BIu6BQu5wkv6zoq+d4X8Xsi8G4k9KId+uMV6BEt6BMt+d4W+dwW7U4i6zIpl5NLTgAAAAFiS0dEAIgFHUgAAAAJcEhZcwAAAEgAAABIAEbJaz4AAAETSURBVDjLxZRZj4IwEIBrUUAOBYZDFIUVBS8Uz///07bHYjC7hkl82O+hybRfOpmmM4S06RGq9AeqOugrlAXvYaKmDw1jqGtdomnZo/F4ZFtm142O6wF4rtOZ2vEDgMDHiCFAiBIjgOgTsddmQuJGjMnk5Qh/I5WYYo2ns0SKyWwatw4oJYpAsxzBPFmkGUCWLpK53LE0aZAvxjLXbXflC9J1UZbFOpXRyrX1fMkdsmFsd/tDdQwjTlac6vpUZCIIj9Vhv9tyh5wZF9W4QkNZ3251+QyvhnrhDl5sUnvBX6kD75n6p5j7u2LuTTHo50E/+D9+ig9EdCtgm8utAKrudsUPADZSHg/ESKFKzodU/mtIfQOArTGdPqeFsAAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAxMy0xMC0wN1QxMzoxNDozNSswMjowMEWBI3EAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMTMtMTAtMDdUMTM6MTQ6MzUrMDI6MDA03JvNAAAAAElFTkSuQmCC",
+        "name": {
+            "common": "Guernsey",
+            "ces": "Guernsey",
+            "deu": "Guernsey",
+            "fra": "Guernesey",
+            "hrv": "Guernsey",
+            "ita": "Guernsey",
+            "jpn": "ガーンジー",
+            "nld": "Guernsey",
+            "por": "Guernsey",
+            "rus": "Гернси",
+            "slk": "Guernsey",
+            "spa": "Guernsey",
+            "fin": "Guernsey",
+            "est": "Guernsey",
+            "zho": "根西岛",
+            "pol": "Guernsey",
+            "urd": "گرنزی",
+            "kor": "건지 섬"
+        }
+    },
+    "IM": {
+        "currency": [
+            "GBP"
+        ],
+        "callingCode": [
+            "44"
+        ],
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "flag": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAeCAIAAADRv8uKAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAAASAAAAEgARslrPgAABMdJREFUSMfN11tsVEUYB/D/N3P22gvdLbaUBiiEAqbcqlwCKCVGfYCgxgAGjFFDEDDyRmwsJmh88YnLkxoTUB64tCposBFiwKoQmoBE0srNXijd3rbtXtrt7p5zZj4fKhrolu4WDH7PZ+Y333dmvjOHTuPRhHhE7v8QZqJRRggphJACqR7gB4QJMACIf6dmIjIMQwjSOsIUVxAjFAIcAiQlC8FEkBKjrR6Qr6VSbSlD+fmeWIykZEBIKZlNIKJ1YkmF54MN4RK/oyFoWPG7RgEhQGp2MxMIrMXoNUgBCyDJnNi3t7/nj+zb/U4hElpH8/Jo48bC93dN27rNndcy9aUdLed/z25tYinBDAEwknORs8cTppfDQwMD+Tq57FmllCMUolR5p4BZCCdzKHAz+6OVg+GpZkeb562ti48effLVTaavONh1qrNx/+PzdruLfYHDR7Lu5MSguB8RM2vKO5/nbd0Wndma8E/W3TqrrYWEAN+buZGiClqzlIW/Xe88NLf8s0+dZhJZnraOjlvXr7dduGDXfOXbvMNhJMrWrP2zokLV1UFKKEWC8q7xbWO6f7f/RmWls/rEBLLdzABY65FIKhjQWruA3J/rexvqW/fu9d1s18mEo68v27IspXzbt0dig7le76RNG3vr6rKJFGAwh4Diqp12NKqPHy+AZQmDWSOVOuquBjMRzEBABdZPnFznaW56rCuQm0h4pBSA3RsUDheAaavXxr1ZDtuGy6WYZUVF8apnnIODsCybSCt7NBX3OU42YyJ4qMo2vpEGCZtJAYq1E2hvPBsOXzOHdDRebT03IwgSyraBxFPLS4qKrGCQABJi1JN0v4zv8BO62RtRgjU0kxCw7PCMWbO2bEn2VF+5tCLY2rnm8MU5p38YWrQ4AvItXNYXjbSdO+cCNN3fHatlaoImAGAhpNY9RUVLar97YuW6gkmVsWTeomXvxnu6fQsXLj59xvXxTh3bPzRoJ3866xplQ2UAgwEGEzm17jWM+TU102fPvtF4xVdYAMeCgXiwuGRKod+f73Yt3fy2xzdBJa+yhTGSBZDyHI8MQ8oQs/e9qhVvvN7W1l5UWtry46kbb37Y8XVtV6AzYVnCZZhxw1O8vOHsHjpyyZuMj9m0aczvMUmplIq/sqFs3/5oSx1Z3r4DJ/q/PFBApBgJsAkoIuUwjHkLuL07r/s2iEZ2jHuTSSNhZiDk7orHTkZ6azrrDVldP0nAJEHMHiG9zFCKTEtduiiIVBpqWqVmwAD0rXBy6qrpK6sK5z8fXDAn8cuvWbGYBsCaNfOwJwT/vc6H8Y4JYCDLsge+P9nZH5y1fl1ZeXl7Tk6stjZbSICZAAalTaYLD4cGsh0O6/LlQHNzyerVonRmd+st1dgYLpTewQy8fyLdqw8xm5aVYxiOY8dqy8vthobSyl3NS2aUHFKRYhLDlfkv4OGZbdt2GkZBU1PjCy9q03z68JmbX5TJLkaK+8gYkc6uvsvWti2J3MlkIHg1evAT/5FGjyANndE8GcMAIIg1J0t90ehx98FvcwhJ5gzLPC6YSNhQaukax/lcn4IpJSmVuZtG50oxBhjw+VyxQZdpZVzicWcMgIHcUIiJxq1i3H8SiogzaRcPDaYHUwH8BdRgRJpEqsB3AAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDEzLTEwLTA3VDEzOjE0OjUxKzAyOjAwd6EO5QAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxMy0xMC0wN1QxMzoxNDo1MSswMjowMAb8tlkAAAAASUVORK5CYII=",
+        "name": {
+            "common": "Isle of Man",
+            "ces": "Ostrov Man",
+            "deu": "Insel Man",
+            "fra": "Île de Man",
+            "hrv": "Otok Man",
+            "ita": "Isola di Man",
+            "jpn": "マン島",
+            "nld": "Isle of Man",
+            "por": "Ilha de Man",
+            "rus": "Остров Мэн",
+            "slk": "Man",
+            "spa": "Isla de Man",
+            "fin": "Mansaari",
+            "est": "Mani saar",
+            "zho": "马恩岛",
+            "pol": "Wyspa Man",
+            "urd": "آئل آف مین",
+            "kor": "맨섬"
+        }
+    },
+    "JE": {
+        "currency": [
+            "GBP"
+        ],
+        "callingCode": [
+            "44"
+        ],
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "flag": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAeCAMAAABpA6zvAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAeNQTFRF//7+//////z8///+//78+/nr62d5++Hl//39//z9/f36///78OOI3QAe4Bcy8JOf/vr6//798uu08eWW8/Li8ed/8Od/8eSW8+u04BYy3xEt3QAd5DhQ98HI+/jo9OND8dpI8sw088o08t5I8udE3gsn3gck4Bk03gkm3gYj6mR2++Xo//3836Fh4T8M4hsn2S8j3DAP65Bf98PK5kFY3AAc3xAs4Bcz3QEf8ZWh/vr7/v7/0GdZxYgX4IEj3Ise13sU31lU/v//8Zqm4R033QEe5TpR/vn81UVM218a3EQsz1sm1kUj2GJC/ff74Rw3/Ojr62l73ggl6mZ4/Obp//z/2FJSzGgY31sk2W8f2ksa5zZQ/f//98bN5T5U4Bs28Zej/vv722ty02UV3GAq1mwl1FMZ4Xlq/vr58Zml4Bw35TxT98XM8ai5zjoY2mUn12ok3BwZ8ae3/Ojq62h6/Ojp2oJj3EUT2UIT3H9h/Ofq98bM5T1U8p2n/fb76ktr6Utr/Pb78p2o//v84Bw25kRY9s7S9s7R3QYi3ggk3QQh3w8r+dLX5UFX4BUx3xIu3QUi8Zik+MvR62l63gcl8Zek/vv85TtS98LK5UFY4Bo18ZWi3gon/OXo5DlQ8JOg62h5r2l5ugAAAAFiS0dEAf8CLd4AAAAJcEhZcwAAAEgAAABIAEbJaz4AAAJcSURBVDjLfZRnX9tADIdPNiMGYtyWDmxCZxJGd0gw6YZCdwOB7rK6HdJJugKdhBYIO+z9Uau7C8H2L+Ve2SedntNf0hECAgHTEnMgNxdyRPMeEYCQvHxwSKbNgkIoKoLCAtOW5ID8POKUixUQHOm9HbBzV8nuPSV79+EnXw4BlGLZSUpVrcyFwTlfhPL9Bw4eOnykHMQ0lYCrTFNLidvjraisqgZJYIajcOz4iZOnTuMHXYIE1VWVFV6Pm/hq/IFa3VsX5HzxzNlz5y9cvFQvcmqwzqvXBvw1Pky64XKjrGpNPs6/cvXa9Rs3b93mVF+TpsqNoQZMG4M3t4TD3rCntY3y79y9d//Bw0ePKbWt1YOGcEszGgg72N6hBWS9s6sbFHjy9NnzFy/hFXR3depyQOtoZy6EX0UwIjrye6IAr9+8fff+A0C0B6l6xBD45bkqkgS9nB/7WP/p85evEI9xai+1QcaRBe/rZ/xv33/8/PWbUfv7MgJDps7IHzASaPYP/vk76McjCWNgq2RgaghkxGNDw/JIMjkiDw/F4ptUuyPDjI65x1V13D02ukX9r+PExPaOm+jJZHJyGzRNZirBcp2eZvknprIkQzFRZo5gXbH+EXYkapeHCp6aoYKnqMLslwo+k7IIbikhC8EA9hKypuBFmZ3LXAoPz83y8qSbwtpmkkUEa5sJRohS53024XjjzlN+CPlkYZGOwtJy0CSFSbLg8hIdhcUFssKGa9VCtfBX2XCt0HFdc9mpVr5rjY6rU15XslAtfGUdH4AN25OSjY9PygaxP1LZ+UD+Ab9qjS2/1AnJAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDEzLTEwLTA3VDEzOjE0OjI1KzAyOjAwiSsj7wAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxMy0xMC0wN1QxMzoxNDoyNSswMjowMPh2m1MAAAAASUVORK5CYII=",
+        "name": {
+            "common": "Jersey",
+            "ces": "Jersey",
+            "deu": "Jersey",
+            "fra": "Jersey",
+            "hrv": "Jersey",
+            "ita": "Isola di Jersey",
+            "jpn": "ジャージー",
+            "nld": "Jersey",
+            "por": "Jersey",
+            "rus": "Джерси",
+            "slk": "Jersey",
+            "spa": "Jersey",
+            "fin": "Jersey",
+            "est": "Jersey",
+            "zho": "泽西岛",
+            "pol": "Jersey",
+            "urd": "جرزی",
+            "kor": "저지 섬"
+        }
+    },
+    "SJ": {
+        "currency": [
+            "NOK"
+        ],
+        "callingCode": [
+            "4779"
+        ],
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "flag": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAeCAMAAABpA6zvAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAASBQTFRF1ygo2Csr1Rwc4WVm////2N/tATmYADeXBDuZACqQmazS43h61BkZ2Cws2C4u1R8f4Who43p81R0d2C8v1BgY1Rsb0gsL31pbmKzS4W9w0QkJ5oqM5oyN5YSF6qqs1d7tACuQl6zT6rO25YKE/f3+2eHwAjmYmbDW+/z9YYC7YIG8ZYfAU3m5ATiXADiXADOUOmavaInCX4G8AC2RADmXADCTACqPBj2aBz2aBTyZAC+SADGTMV6rMV6qMF2rMl+sKVioATmXADWWHU+jNGGsMF2q2eHvmbDV///+2OHvma/V3lFR31RU3ERE7KWm2N7smK3T772+4mNj5G9v5G1t1iMj0g8P6IyM6Zmb1R4e1yoq1Boa6ZGS6qCi6ZCR6p+gJDeP5AAAAAFiS0dEBI9o2VEAAAAJcEhZcwAAAEgAAABIAEbJaz4AAAD0SURBVDjL7dLZUsJQDIDhtEYFhSJaFgG1oiKLHtwqiCwqiAvuyuL+/m9hO+F0mDnBJ+C7/iczyQSAaPoUTs/M+vxzOB/QYLxJyIdBYoQWZBheXAqqwCSRaIzCOC4ndFMFSZJaWcU1J7TWMb2RSqoApU3cyjgTtzGLHMhJ+cLOrsgU9/YPchywPP5DIcSRfWyxoOQpnzih8JVLLLA9lVN3YrFis6A6VKs3zoQ4v2i2Lquc0a3b7h2vMHvNGQ1v3PB23Hk65O7+AR/d8AmfX17fVBAi3V6fwjgOou8RFXwQ4/NLht+6oam8JzJ/ZPj77z9OQjb8AwhfWkSfb+ooAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDEzLTEwLTA3VDEzOjE1OjEyKzAyOjAwLcFxvAAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxMy0xMC0wN1QxMzoxNToxMiswMjowMFycyQAAAAAASUVORK5CYII=",
+        "name": {
+            "common": "Svalbard and Jan Mayen",
+            "ces": "Špicberky a Jan Mayen",
+            "deu": "Spitzbergen und Jan Mayen",
+            "fra": "Svalbard et Jan Mayen",
+            "hrv": "Svalbard i Jan Mayen",
+            "ita": "Svalbard e Jan Mayen",
+            "jpn": "スヴァールバル諸島およびヤンマイエン島",
+            "nld": "Svalbard en Jan Mayen",
+            "por": "Ilhas Svalbard e Jan Mayen",
+            "rus": "Шпицберген и Ян-Майен",
+            "slk": "Svalbard a Jan Mayen",
+            "spa": "Islas Svalbard y Jan Mayen",
+            "fin": "Huippuvuoret",
+            "est": "Svalbard",
+            "zho": "斯瓦尔巴特",
+            "pol": "Svalbard i Jan Mayen",
+            "urd": "سوالبارڈ اور جان میئن",
+            "kor": "스발바르 얀마옌 제도"
+        }
+    },
+    "RU": {
+        "currency": [
+            "RUB"
+        ],
+        "callingCode": [
+            "7"
+        ],
+        "region": "Europe",
+        "subregion": "Eastern Europe",
+        "flag": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAeBAMAAACs80HuAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAACpQTFRF/////v7+7u72EhKHAAB8AgJ/AQF+AgF9AAGAEgF17QEK/wEA/QEC/gEBEp+r8wAAAAFiS0dEAIgFHUgAAAAJcEhZcwAAAEgAAABIAEbJaz4AAABBSURBVCjPY2AYfEAQC8CuUgkLYDDGAhhcsACGUCyAIQ0LoFSwHAtg6MACGGZiAQyrsACG3VgAwxksgOEuFjCwggAMe/hdiobzpAAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAxMy0xMC0wN1QxMzoxNDo1MiswMjowMEZJFHgAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMTMtMTAtMDdUMTM6MTQ6NTIrMDI6MDA3FKzEAAAAAElFTkSuQmCC",
+        "name": {
+            "common": "Russia",
+            "ces": "Rusko",
+            "deu": "Russland",
+            "fra": "Russie",
+            "hrv": "Rusija",
+            "ita": "Russia",
+            "jpn": "ロシア連邦",
+            "nld": "Rusland",
+            "por": "Rússia",
+            "rus": "Россия",
+            "slk": "Rusko",
+            "spa": "Rusia",
+            "fin": "Venäjä",
+            "est": "Venemaa",
+            "zho": "俄罗斯",
+            "pol": "Rosja",
+            "urd": "روس",
+            "kor": "러시아"
+        }
+    },
+    "UA": {
+        "currency": [
+            "UAH"
+        ],
+        "callingCode": [
+            "380"
+        ],
+        "region": "Europe",
+        "subregion": "Eastern Europe",
+        "flag": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAeBAMAAACs80HuAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAABtQTFRFJoz/J43+Ior/NZTu8Pcc//8H/v4M//8L////WTbNKwAAAAFiS0dECIbelXoAAAAJcEhZcwAAAEgAAABIAEbJaz4AAAAoSURBVCjPY2AYwUAQC2BQwgIYjLEABhcsgCEUC2BIwwIYyrGAESIIAFnli3Xgo9d8AAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDEzLTEwLTA3VDEzOjE0OjU2KzAyOjAwsgYwawAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxMy0xMC0wN1QxMzoxNDo1NiswMjowMMNbiNcAAAAASUVORK5CYII=",
+        "name": {
+            "common": "Ukraine",
+            "ces": "Ukrajina",
+            "deu": "Ukraine",
+            "fra": "Ukraine",
+            "hrv": "Ukrajina",
+            "ita": "Ucraina",
+            "jpn": "ウクライナ",
+            "nld": "Oekraïne",
+            "por": "Ucrânia",
+            "rus": "Украина",
+            "slk": "Ukrajina",
+            "spa": "Ucrania",
+            "fin": "Ukraina",
+            "est": "Ukraina",
+            "zho": "乌克兰",
+            "pol": "Ukraina",
+            "urd": "یوکرین",
+            "kor": "우크라이나"
+        }
+    },
+    "FR": {
+        "currency": [
+            "EUR"
+        ],
+        "callingCode": [
+            "33"
+        ],
+        "region": "Europe",
+        "subregion": "Western Europe",
+        "flag": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAeBAMAAACs80HuAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAACFQTFRFACZ/AymBABl3qbbU////+/z9//z8+7G58gok8xsz8xgwxtlaVAAAAAFiS0dEBI9o2VEAAAAJcEhZcwAAAEgAAABIAEbJaz4AAAAeSURBVCjPY2AAAUZlVxcgSKmYtQoEGEYFRwVpKQgAg3q7n/McyNsAAAAldEVYdGRhdGU6Y3JlYXRlADIwMTMtMTAtMDdUMTM6MTQ6NDcrMDI6MDDY2ztBAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDEzLTEwLTA3VDEzOjE0OjQ3KzAyOjAwqYaD/QAAAABJRU5ErkJggg==",
+        "name": {
+            "common": "France",
+            "ces": "Francie",
+            "deu": "Frankreich",
+            "fra": "France",
+            "hrv": "Francuska",
+            "ita": "Francia",
+            "jpn": "フランス",
+            "nld": "Frankrijk",
+            "por": "França",
+            "rus": "Франция",
+            "slk": "Francúzsko",
+            "spa": "Francia",
+            "fin": "Ranska",
+            "est": "Prantsusmaa",
+            "zho": "法国",
+            "pol": "Francja",
+            "urd": "فرانس",
+            "kor": "프랑스"
+        }
+    },
+    "ES": {
+        "currency": [
+            "EUR"
+        ],
+        "callingCode": [
+            "34"
+        ],
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "flag": "data:image/png;base64,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",
+        "name": {
+            "common": "Spain",
+            "ces": "Španělsko",
+            "deu": "Spanien",
+            "fra": "Espagne",
+            "hrv": "Španjolska",
+            "ita": "Spagna",
+            "jpn": "スペイン",
+            "nld": "Spanje",
+            "por": "Espanha",
+            "rus": "Испания",
+            "slk": "Španielsko",
+            "spa": "España",
+            "fin": "Espanja",
+            "est": "Hispaania",
+            "zho": "西班牙",
+            "pol": "Hiszpania",
+            "urd": "ہسپانیہ",
+            "kor": "스페인"
+        }
+    },
+    "SE": {
+        "currency": [
+            "SEK"
+        ],
+        "callingCode": [
+            "46"
+        ],
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "flag": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAeCAMAAABpA6zvAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAJxQTFRFAEBzAD90I1NjG05nAD50AD9zHVBmG09nPGFYM1tcGk5nHE5m37sO37oO5L0M4bsN3bkP3roP5L0M/80A/8wA3LkQAEBzAD90I1Nj3LgQGk5nAD50AD9zAD51I1JkGk1oAD11578L4LsO/MoC+skC4rwN4bwN5r4L/MoB+8oC470MIFFkHlBlP2JXNl1bHU9mH1BlI1FkI1Jj////hM0NagAAABJ0Uk5T/Pz9/Pz8/v7+/v7+/v7+/v7+yMbBHgAAAAFiS0dEMzfVfF4AAAAJcEhZcwAAAEgAAABIAEbJaz4AAACNSURBVDjL7dHJDoJAEEXRh+KE4tQlqC2COA/g8P8fp0AKNxXSC+OKs75JJa8AZjWmikjNmnZLAo/58zxcLPVKUoc/Cn0WrIswjLQEbdbpbrIw7jl9CQbMHW7pYzcaTyRQX5RTMpAh89D49J4djqesO19iEa7slhTzpPeHBOWi0bN68PJH+lX9wjr8b/gGzuNz038exeMAAAAldEVYdGRhdGU6Y3JlYXRlADIwMTMtMTAtMDdUMTM6MTQ6NTYrMDI6MDCyBjBrAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDEzLTEwLTA3VDEzOjE0OjU2KzAyOjAww1uI1wAAAABJRU5ErkJggg==",
+        "name": {
+            "common": "Sweden",
+            "ces": "Švédsko",
+            "deu": "Schweden",
+            "fra": "Suède",
+            "hrv": "Švedska",
+            "ita": "Svezia",
+            "jpn": "スウェーデン",
+            "nld": "Zweden",
+            "por": "Suécia",
+            "rus": "Швеция",
+            "slk": "Švédsko",
+            "spa": "Suecia",
+            "fin": "Ruotsi",
+            "est": "Rootsi",
+            "zho": "瑞典",
+            "pol": "Szwecja",
+            "urd": "سویڈن",
+            "kor": "스웨덴"
+        }
+    },
+    "NO": {
+        "currency": [
+            "NOK"
+        ],
+        "callingCode": [
+            "47"
+        ],
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "flag": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAeCAMAAABpA6zvAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAARdQTFRF1ygo1ysr1Rwc3mBh////qbraACyRBz2aT3K05omK1BgY2Cws1yoq2C0t1R8f32JjT3O054uM1Rsb2C4u1R0d1iAg0xER3Vha5YSF0g0N1iEh3FdZ3Vlb205Q4YKEprjZTnK06KGk2ktN3Vpc+/z+qbzcUHa4/P3+bYzCa4vCdJPGSHC0ADOUAzqYIlKlc5LGbIvCACqPACqQACmPAC+SADmXADiXADSVCD6aCD+aBTyZAjqYACuQmq3Tmq3SmK3TpbnaZ4jBADGTBDuZMF6ro7jama7U5oyN546P7Ly+TnS28trd6qOk7Kqr66iq0QgI5H1/qLjY7Kao0QoK1Boa2C8v5oiJqLnZ7a2u2Csr1BkZ5YaH7aytF4hs4AAAAAFiS0dEBI9o2VEAAAAJcEhZcwAAAEgAAABIAEbJaz4AAADjSURBVDjL7dLZcgFREIDhzuggBhFGbCGWxBISDCbEFmIn9sSW93+OqHNmXHUpVW591391VZ/TANyVoMNrvUFvxBuTCEdcQjo0cxbrLQtteGd3mAkgcc57lzrR7fFKBPBxD/4APu7DIIbCER8BUPOEz/swijEkQVyTeEmmXlNv6UycBFmNnMsXlMJ7Ts6SoHhQ+lAUpVwq0qByILOJcoUGVVWt/tlofjVb7U6VdPrWXa7n7rN3HOBw9D0mgIkTJlOcsS+cL6QlAUTuR/jFFQvXkmND0G5D3O7UiX/LzbEzu4Tnhf+7jWdEJBC/LQAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAxMy0xMC0wN1QxMzoxNToyMyswMjowMAU5fesAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMTMtMTAtMDdUMTM6MTU6MjMrMDI6MDB0ZMVXAAAAAElFTkSuQmCC",
+        "name": {
+            "common": "Norway",
+            "ces": "Norsko",
+            "deu": "Norwegen",
+            "fra": "Norvège",
+            "hrv": "Norveška",
+            "ita": "Norvegia",
+            "jpn": "ノルウェー",
+            "nld": "Noorwegen",
+            "por": "Noruega",
+            "rus": "Норвегия",
+            "slk": "Nórsko",
+            "spa": "Noruega",
+            "fin": "Norja",
+            "est": "Norra",
+            "zho": "挪威",
+            "pol": "Norwegia",
+            "urd": "ناروے",
+            "kor": "노르웨이"
+        }
+    },
+    "DE": {
+        "currency": [
+            "EUR"
+        ],
+        "callingCode": [
+            "49"
+        ],
+        "region": "Europe",
+        "subregion": "Western Europe",
+        "flag": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAeBAMAAACs80HuAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAACdQTFRFAAAAAQAAEQAA7gAA/wAA/gAA/wEA/xAA/9YA/+oA/+UA/+YA////X5h2TAAAAAFiS0dEDIGzUWMAAAAJcEhZcwAAAEgAAABIAEbJaz4AAAA9SURBVCjPY2AYfEAQC8CuUgkLYDDGAhhcsACGUCwAu0oKBdOwAOwqy7EAhg4sgGEmFsCwCgtg2I0FDKwgAGlOyeEHSqKvAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDEzLTEwLTA3VDEzOjE1OjIwKzAyOjAwNNFndgAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxMy0xMC0wN1QxMzoxNToyMCswMjowMEWM38oAAAAASUVORK5CYII=",
+        "name": {
+            "common": "Deutschland",
+            "ces": "Německo",
+            "deu": "Deutschland",
+            "fra": "Allemagne",
+            "hrv": "Njemačka",
+            "ita": "Germania",
+            "jpn": "ドイツ",
+            "nld": "Duitsland",
+            "por": "Alemanha",
+            "rus": "Германия",
+            "slk": "Nemecko",
+            "spa": "Alemania",
+            "fin": "Saksa",
+            "est": "Saksamaa",
+            "zho": "德国",
+            "pol": "Niemcy",
+            "urd": "جرمنی",
+            "kor": "독일"
+        }
+    },
+    "FI": {
+        "currency": [
+            "EUR"
+        ],
+        "callingCode": [
+            "358"
+        ],
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "flag": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAeCAMAAABpA6zvAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAADlQTFRF////jrnvAGHaAGLaAWPapsjy1eX52ej6dqvri7juFm/dDGncDmvcFW/dC2nc1OX52Of5dKnrAGDaX9TlqQAAAAFiS0dEAIgFHUgAAAAJcEhZcwAAAEgAAABIAEbJaz4AAABXSURBVDjL7dG7EoAwCETRFTQx8e3/f6wzDqRiDFVscurbsABqIH6NE771sE0YRJw1TDEYkNXCYs2bAaS0YzKBnf4M3ceU+/fKPIc4r8rgRbqdv+5hk/ABSuILPw2ihQEAAAAldEVYdGRhdGU6Y3JlYXRlADIwMTMtMTAtMDdUMTM6MTQ6NTMrMDI6MDDgPh/MAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDEzLTEwLTA3VDEzOjE0OjUzKzAyOjAwkWOncAAAAABJRU5ErkJggg==",
+        "name": {
+            "common": "Finland",
+            "ces": "Finsko",
+            "deu": "Finnland",
+            "fra": "Finlande",
+            "hrv": "Finska",
+            "ita": "Finlandia",
+            "jpn": "フィンランド",
+            "nld": "Finland",
+            "por": "Finlândia",
+            "rus": "Финляндия",
+            "slk": "Fínsko",
+            "spa": "Finlandia",
+            "fin": "Suomi",
+            "est": "Soome",
+            "zho": "芬兰",
+            "pol": "Finlandia",
+            "urd": "فن لینڈ",
+            "kor": "핀란드"
+        }
+    },
+    "PL": {
+        "currency": [
+            "PLN"
+        ],
+        "callingCode": [
+            "48"
+        ],
+        "region": "Europe",
+        "subregion": "Eastern Europe",
+        "flag": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAeBAMAAACs80HuAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAABVQTFRF//////7+/e7u4RER3gAA3wEB3wAA/OBH4QAAAAFiS0dEAIgFHUgAAAAJcEhZcwAAAEgAAABIAEbJaz4AAAAlSURBVCjPY2AYwUAQC8CuUgkLYDDGAhhcsACGUCyAIQ0LGCGCAM5zc403UJE7AAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDEzLTEwLTA3VDEzOjE1OjE2KzAyOjAw2Y5VrwAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxMy0xMC0wN1QxMzoxNToxNiswMjowMKjT7RMAAAAASUVORK5CYII=",
+        "name": {
+            "common": "Poland",
+            "ces": "Polsko",
+            "deu": "Polen",
+            "fra": "Pologne",
+            "hrv": "Poljska",
+            "ita": "Polonia",
+            "jpn": "ポーランド",
+            "nld": "Polen",
+            "por": "Polónia",
+            "rus": "Польша",
+            "slk": "Poľsko",
+            "spa": "Polonia",
+            "fin": "Puola",
+            "est": "Poola",
+            "zho": "波兰",
+            "pol": "Polska",
+            "urd": "پولینڈ",
+            "kor": "폴란드"
+        }
+    },
+    "IT": {
+        "currency": [
+            "EUR"
+        ],
+        "callingCode": [
+            "39"
+        ],
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "flag": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAeBAMAAACs80HuAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAABVQTFRFAFcAAVgBpcOl/////qSk/AEB/AAA2/OHLwAAAAFiS0dEAxEMTPIAAAAJcEhZcwAAAEgAAABIAEbJaz4AAAAaSURBVCjPY2AAAyFjMHBNAwOGUcFRQVoKAgDqd3XHPs6NlAAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAxMy0xMC0wN1QxMzoxNDo0MyswMjowMCyUH1IAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMTMtMTAtMDdUMTM6MTQ6NDMrMDI6MDBdyafuAAAAAElFTkSuQmCC",
+        "name": {
+            "common": "Italy",
+            "ces": "Itálie",
+            "deu": "Italien",
+            "fra": "Italie",
+            "hrv": "Italija",
+            "ita": "Italia",
+            "jpn": "イタリア",
+            "nld": "Italië",
+            "por": "Itália",
+            "rus": "Италия",
+            "slk": "Taliansko",
+            "spa": "Italia",
+            "fin": "Italia",
+            "est": "Itaalia",
+            "zho": "意大利",
+            "pol": "Włochy",
+            "urd": "اطالیہ",
+            "kor": "이탈리아"
+        }
+    },
+    "GB": {
+        "currency": [
+            "GBP"
+        ],
+        "callingCode": [
+            "44"
+        ],
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "flag": "data:image/png;base64,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",
+        "name": {
+            "common": "United Kingdom",
+            "ces": "Spojené království",
+            "deu": "Vereinigtes Königreich",
+            "fra": "Royaume-Uni",
+            "hrv": "Ujedinjeno Kraljevstvo",
+            "ita": "Regno Unito",
+            "jpn": "イギリス",
+            "nld": "Verenigd Koninkrijk",
+            "por": "Reino Unido",
+            "rus": "Великобритания",
+            "slk": "Veľká Británia (Spojené kráľovstvo)",
+            "spa": "Reino Unido",
+            "fin": "Yhdistynyt kuningaskunta",
+            "est": "Suurbritannia",
+            "zho": "英国",
+            "pol": "Zjednoczone Krłlestwo",
+            "urd": "مملکتِ متحدہ",
+            "kor": "영국"
+        }
+    },
+    "RO": {
+        "currency": [
+            "RON"
+        ],
+        "callingCode": [
+            "40"
+        ],
+        "region": "Europe",
+        "subregion": "Eastern Europe",
+        "flag": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAeBAMAAACs80HuAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAABtQTFRFpaE385sGADGcATKb/+EA/94A3iIQ3iEQ////bEiZPQAAAAJ0Uk5T/v6mqd4QAAAAAWJLR0QIht6VegAAAAlwSFlzAAAASAAAAEgARslrPgAAABxJREFUKM9jUAIDA9dQIAgRKwcDhlHBUUFaCgIAAIWtj9wIsGoAAAAldEVYdGRhdGU6Y3JlYXRlADIwMTMtMTAtMDdUMTM6MTU6MDYrMDI6MDAVJFUxAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDEzLTEwLTA3VDEzOjE1OjA2KzAyOjAwZHntjQAAAABJRU5ErkJggg==",
+        "name": {
+            "common": "Romania",
+            "ces": "Rumunsko",
+            "deu": "Rumänien",
+            "fra": "Roumanie",
+            "hrv": "Rumunjska",
+            "ita": "Romania",
+            "jpn": "ルーマニア",
+            "nld": "Roemenië",
+            "por": "Roménia",
+            "rus": "Румыния",
+            "slk": "Rumunsko",
+            "spa": "Rumania",
+            "fin": "Romania",
+            "est": "Rumeenia",
+            "zho": "罗马尼亚",
+            "pol": "Rumunia",
+            "urd": "رومانیہ",
+            "kor": "루마니아"
+        }
+    },
+    "BY": {
+        "currency": [
+            "BYN"
+        ],
+        "callingCode": [
+            "375"
+        ],
+        "region": "Europe",
+        "subregion": "Eastern Europe",
+        "flag": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAeCAMAAABpA6zvAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAXdQTFRFoR0DoBoATJUDS5IA8tXV2YKC7MHB9+Tk35WV5amp3IqKsgEBsgAA5aur3Y+P7sjI2YOD2oaG2YCAswIC1XJy8dHR4Zyczlxc7sbG6LKyxkJC2oWF67293pKS6LGx46Ghzl1d7L+/0mtr4JiY1XV13pOT24iI3IuL3I2Nz19fyU1NzVtbx0VF2Hx80mpqwzg45aio4Jqa5q6u021t6LOzvCAg0mxs8M3NwDAwy1JS2oSExDs7xDw8wzc3xkFBx0REvicnswMDwTMzvyws13p6ux4eyUtL8MzM0GRk67u75q2t1XR035aW+evr1G9v7cLC+OjozltbsQAA2H5+5KWlylBQ6rq60Who6ri46bW14p6e2oOD4JaWswEBswAAyU5OwlVLwCUnnnI8zU9SsMCEQqAAQaAA4ZKVqahtQp8A1GdqmXM4Q6EC3oqNpZpfQ6AB3oeKr7uAQp4A5Z+hpJhd6q+ynH1C7sfH3IOG56apssWKQqAB////fb2DowAAAAR0Uk5T/v7+/rpKSvwAAAABYktHRHzRtiBfAAAACXBIWXMAAABIAAAASABGyWs+AAABAUlEQVQ4y2NgYWVj5+Dk4uYhABh4Wfn4BQSFhAkqFBEVE5eQlCKsUFpGVkhOXoGwQkUlZVEVLiFC6ngYuFTV1Pk0NAl7RktNW0dXT5+w1QaChkZcHMaErTYxNTO3sLQirNDaxtbO3sHGkbAbnUScXVzdCCt09/AU8vL2IexrE19DP/+AwCCCCoNDZNm45EMJB09YeERklEs0YV8TrZBoq4n2DCR4YmLjCACGeHCAJzAwEgCQKExMYmImACCJIjklNY0AgCSz9IxMQgCScLOycwgqBGeF3Lx8ggrBmaugsIigQnB2LS4hbDW4ACgtI6wQWKSUC1QUElYILqQqq6oJKQQA5hHNdDF/qqcAAAAldEVYdGRhdGU6Y3JlYXRlADIwMTMtMTAtMDdUMTM6MTU6MDUrMDI6MDAkzE+sAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDEzLTEwLTA3VDEzOjE1OjA1KzAyOjAwVZH3EAAAAABJRU5ErkJggg==",
+        "name": {
+            "common": "Belarus",
+            "ces": "Bělorusko",
+            "cym": "Belarws",
+            "deu": "Weißrussland",
+            "fra": "Biélorussie",
+            "hrv": "Bjelorusija",
+            "ita": "Bielorussia",
+            "jpn": "ベラルーシ",
+            "nld": "Wit-Rusland",
+            "por": "Bielorússia",
+            "rus": "Беларусь",
+            "slk": "Bielorusko",
+            "spa": "Bielorrusia",
+            "fin": "Valko-Venäjä",
+            "est": "Valgevene",
+            "zho": "白俄罗斯",
+            "pol": "Białoruś",
+            "urd": "بیلاروس",
+            "kor": "벨라루스"
+        }
+    },
+    "KZ": {
+        "currency": [
+            "KZT"
+        ],
+        "callingCode": [
+            "7"
+        ],
+        "region": "Asia",
+        "subregion": "Central Asia",
+        "flag": "data:image/png;base64,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",
+        "name": {
+            "common": "Kazakhstan",
+            "ces": "Kazachstán",
+            "deu": "Kasachstan",
+            "fra": "Kazakhstan",
+            "hrv": "Kazahstan",
+            "ita": "Kazakistan",
+            "jpn": "カザフスタン",
+            "nld": "Kazachstan",
+            "por": "Cazaquistão",
+            "rus": "Казахстан",
+            "slk": "Kazachstan",
+            "spa": "Kazajistán",
+            "fin": "Kazakstan",
+            "est": "Kasahstan",
+            "zho": "哈萨克斯坦",
+            "pol": "Kazachstan",
+            "urd": "قازقستان",
+            "kor": "카자흐스탄"
+        }
+    },
+    "GR": {
+        "currency": [
+            "EUR"
+        ],
+        "callingCode": [
+            "30"
+        ],
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "flag": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAeCAMAAABpA6zvAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAK5QTFRFO4X2pcf7psj7o8b7pMb7H3T0WZj3Wpn3V5f3lL36/f7/////6vL+baX4WJj3W5r3AGHzAF7zWpn3/v7/////4Oz+H3T0AGDzAWLzAF/zW5n3AFvzWpf3H3L0AF3zW5f3WJf3lb36/v//6/P+bqX4WZj3dKn4pMf7AmLzAWHzpMb7AWDz+/3/5O7+nML6IHX1G3L0OoX2HXP0ZJ/44ez+Wpj3H3P0W5j3/f7/HnT0fFGBNwAAABB0Uk5T/v39/v7+/f7+/v7+/v7+/vURJdcAAAABYktHRAsf18TAAAAACXBIWXMAAABIAAAASABGyWs+AAAAzElEQVQ4y53R1xKCMBQE0LV3BRKMvXfFXv//x0wy+hIvesfzwOzDApMsPMMPhAzryvsC/xcbNLfYRCJJcot+S0gSfKPd0cVuz6R+XDEwBsORHE+mOk1nqTQJwhrpd2yQ88WSBPcXq7UiIbTGUm4iE6Ltrk6Cfe4nQkaHo0mn8EyC/W7vok99bZp0izu1e4/BXZDcospkaR9bK5/mLhMLOSNfKJbKlarNNdprGfFeRo9Eg2R6LfMbHkxQTGgwIcnEPzW7mGbCkgkeE7v4BBtYYvXw4HRMAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDEzLTEwLTA3VDEzOjE0OjQ3KzAyOjAw2Ns7QQAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxMy0xMC0wN1QxMzoxNDo0NyswMjowMKmGg/0AAAAASUVORK5CYII=",
+        "name": {
+            "common": "Greece",
+            "ces": "Řecko",
+            "deu": "Griechenland",
+            "fra": "Grèce",
+            "hrv": "Grčka",
+            "ita": "Grecia",
+            "jpn": "ギリシャ",
+            "nld": "Griekenland",
+            "por": "Grécia",
+            "rus": "Греция",
+            "slk": "Greécko",
+            "spa": "Grecia",
+            "fin": "Kreikka",
+            "est": "Kreeka",
+            "zho": "希腊",
+            "pol": "Grecja",
+            "urd": "یونان",
+            "kor": "그리스"
+        }
+    },
+    "BG": {
+        "currency": [
+            "BGN"
+        ],
+        "callingCode": [
+            "359"
+        ],
+        "region": "Europe",
+        "subregion": "Eastern Europe",
+        "flag": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAeBAMAAACs80HuAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAB5QTFRF////5vLgSqEfL5MAMZQAMJUARoYCyS8O3yAQ3iEQJE7QjgAAAAFiS0dEAIgFHUgAAAAJcEhZcwAAAEgAAABIAEbJaz4AAAAxSURBVCjPY2AYykAQC2BQwgIYjLEABhcsgH6CoVgAQxoWwFCOBTB0YAEMM7GAQSgIAPGQqgHN6gB8AAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDEzLTEwLTA3VDEzOjE1OjA1KzAyOjAwJMxPrAAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxMy0xMC0wN1QxMzoxNTowNSswMjowMFWR9xAAAAAASUVORK5CYII=",
+        "name": {
+            "common": "Bulgaria",
+            "ces": "Bulharsko",
+            "cym": "Bwlgaria",
+            "deu": "Bulgarien",
+            "fra": "Bulgarie",
+            "hrv": "Bugarska",
+            "ita": "Bulgaria",
+            "jpn": "ブルガリア",
+            "nld": "Bulgarije",
+            "por": "Bulgária",
+            "rus": "Болгария",
+            "slk": "Bulharsko",
+            "spa": "Bulgaria",
+            "fin": "Bulgaria",
+            "est": "Bulgaaria",
+            "zho": "保加利亚",
+            "pol": "Bułgaria",
+            "urd": "بلغاریہ",
+            "kor": "불가리아"
+        }
+    },
+    "IS": {
+        "currency": [
+            "ISK"
+        ],
+        "callingCode": [
+            "354"
+        ],
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "flag": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAeCAMAAABpA6zvAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAFFQTFRFADiXBDuYACuQVXi3////4W5v1R0dBz6aAC6SV3q4WHq4BC6SAB6JVXCz4W1vSnCzjaLL4m1u1R4e4m5u/vz85HBw5XV120BA1iQk1ykpjqLMkEWlzwAAAAFiS0dEBI9o2VEAAAAJcEhZcwAAAEgAAABIAEbJaz4AAACQSURBVDjL7dLRCoQgEAXQUccprTR1K9v//9ANwgqURdinYs/LvFy4zChAwrhASSRRcAbf/IM/BVnStGoP6rZhOeBJ1w9oiAwOfcdzIBJlR3TeBxytEjnA0wsnomkbJSAPxs1LjMvsjCwAOnmK6xq3UVIfvFSHvTqUq6uXOfbX6Txvq0vnqT549RPe4T8+KfgBgwQOT3egtFcAAAAldEVYdGRhdGU6Y3JlYXRlADIwMTMtMTAtMDdUMTM6MTQ6MzIrMDI6MDCAJh3/AAAAJXRFWHRkYXRlOm1vZGlmeQAyMDEzLTEwLTA3VDEzOjE0OjMyKzAyOjAw8XulQwAAAABJRU5ErkJggg==",
+        "name": {
+            "common": "Iceland",
+            "ces": "Island",
+            "deu": "Island",
+            "fra": "Islande",
+            "hrv": "Island",
+            "ita": "Islanda",
+            "jpn": "アイスランド",
+            "nld": "IJsland",
+            "por": "Islândia",
+            "rus": "Исландия",
+            "slk": "Island",
+            "spa": "Islandia",
+            "fin": "Islanti",
+            "est": "Island",
+            "zho": "冰岛",
+            "pol": "Islandia",
+            "urd": "آئس لینڈ",
+            "kor": "아이슬란드"
+        }
+    },
+    "HU": {
+        "currency": [
+            "HUF"
+        ],
+        "callingCode": [
+            "36"
+        ],
+        "region": "Europe",
+        "subregion": "Eastern Europe",
+        "flag": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAeBAMAAACs80HuAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAACdQTFRF1DYX1DUW0zIS10Il/PDu//////7+/v7+8ffuRpURNYsAOY4BOI0Atgdb1QAAAAFiS0dEBfhv6ccAAAAJcEhZcwAAAEgAAABIAEbJaz4AAABCSURBVCjPY2DABgSxAPoJYgVKWACDMRbA4IIFMIRiAQxpWAB2lRQKlmMB2FV2YAEMM7EAhlVYAMNuLIDhDBYwsIIArGfvEVFLwBQAAAAldEVYdGRhdGU6Y3JlYXRlADIwMTMtMTAtMDdUMTM6MTQ6MzUrMDI6MDBFgSNxAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDEzLTEwLTA3VDEzOjE0OjM1KzAyOjAwNNybzQAAAABJRU5ErkJggg==",
+        "name": {
+            "common": "Hungary",
+            "ces": "Maďarsko",
+            "deu": "Ungarn",
+            "fra": "Hongrie",
+            "hrv": "Mađarska",
+            "ita": "Ungheria",
+            "jpn": "ハンガリー",
+            "nld": "Hongarije",
+            "por": "Hungria",
+            "rus": "Венгрия",
+            "slk": "Maďarsko",
+            "spa": "Hungría",
+            "fin": "Unkari",
+            "est": "Ungari",
+            "zho": "匈牙利",
+            "pol": "Węgry",
+            "urd": "مجارستان",
+            "kor": "헝가리"
+        }
+    },
+    "PT": {
+        "currency": [
+            "EUR"
+        ],
+        "callingCode": [
+            "351"
+        ],
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "flag": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAeCAYAAABe3VzdAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAAASAAAAEgARslrPgAAA9hJREFUWMPt2ElsVVUYB/Dfve+1pa/vQaG0SGmLtEDQCI4QA6JGY0gc4hAwBhNjInGhLnShC2WhOCW6MTEuXKlRExOjJgTBhUNUVESFqAytDC2UQlsohba0b74uqi5IqJbyNDH8tzc355dz7jn3+04QvB5ExpuAKOD5j3hy4/hfH0/ikbMYIPoDWVLaaMJ/YYzzwPPAcwoMUInJGUZCBpIU4qUDBl7/Z5sxRHOMG1IsmUbhGJUjTM8ya4Dkl1zwLYn+/2AGq7A6xasXcfdsBrEnQ20dlZ2EszjxFLtfpuvK0TPyXOVvF6cKD09nzdwGHUem+rA3sjfLBRmmJmnYzPTP6F3K8J2RnhfbZdYNm7N59HMoKbACdxRYEgsM7prj2kSPpa1Z4XsEKyhrGEWEaRoXFg3tb7S9vlbHfQfE+pm9s8TA5jSrmqlMBIITIyoaD4iHGfn9yFCYSbGf8CjlTcQGyhz5OVKs58DN1P9GWa6EwGW1yHP4CC19eLaobUqDoUdX6o+V6X03Mu+WUGH/Hgsf/EhiJou7Ob6M7L30r6eurUTAyohFCTrzfHGAi0/Ssr/I8maLXnzeL78mtG1hwf30f7VB7v31oopI3+0cizM8RGYRNW3ESgFMFajKUJ1g5aVUd+Me0jG+/45Mjskpdu1koIPFdxG1MLyCfJ6yAsVmigGxCVQVYy5xscihw5xIM68FL5D+mB+3kqwmm2XbNoIuFj+EGqIPyHVRdSvJNPEJljxnBGbjTKmjs4KXDkZSuwNXvRWYEgy6Ze2I4VzCjh0su45jm46LrSsIm0ItW1gwQPc9VKQnftSc8aA+hdZ+ZuRZFEamFbApofbbXXK/vC2bHTE4HMkd22PS1jekNpPuSmhfm/XTGtr7CXdPUDfWDObw9Qkeq+eZeYQn+wwtn61u1a/y0VqDz23QMlwrt2WbeQ/8JlaVcHRGtb6aVvFrmNRDaoI7eEwgbM3zQw8Lqnhrz0Ff37TE4+Xz1bftNfPTz8gQzMeKpOMNlztY7FA5klVWQ/gBdb0TB8bc5ukzPcwEDITcNodZ9UVv5np9k200pX2upMnKZ9QwaY6w9UKFL9qldSq/keR3XPYO5emJA/+2mgmwrJwnmqks58PuwPaRpKZT0zxSG1f72inV+hxfkZNZjs+Z+wqpnonj/hHwz8yNsbqG62dQHqejk5oEhqhrJDpE6n2aNjJp8NzgxgWEMjSFXFJJcogrDrJ0Lw3dVO+iqo+zaGLHzLhq4Rz2Fdl3CgHzt3H1J+cWdHrOvicJif0LHc3/r2k6Dzwt8eBsfufBX9czSn1D8zt5hVO5+XSEIgAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAxMy0xMC0wN1QxMzoxNDozNSswMjowMEWBI3EAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMTMtMTAtMDdUMTM6MTQ6MzUrMDI6MDA03JvNAAAAAElFTkSuQmCC",
+        "name": {
+            "common": "Portugal",
+            "ces": "Portugalsko",
+            "deu": "Portugal",
+            "fra": "Portugal",
+            "hrv": "Portugal",
+            "ita": "Portogallo",
+            "jpn": "ポルトガル",
+            "nld": "Portugal",
+            "por": "Portugal",
+            "rus": "Португалия",
+            "slk": "Portugalsko",
+            "spa": "Portugal",
+            "fin": "Portugali",
+            "est": "Portugal",
+            "zho": "葡萄牙",
+            "pol": "Portugalia",
+            "urd": "پرتگال",
+            "kor": "포르투갈"
+        }
+    },
+    "AT": {
+        "currency": [
+            "EUR"
+        ],
+        "callingCode": [
+            "43"
+        ],
+        "region": "Europe",
+        "subregion": "Western Europe",
+        "flag": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAeBAMAAACs80HuAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAABtQTFRF3wEB3wAA3gAA4RAQ/ezs//////7+/e7u4RERPLHzTAAAAAFiS0dEBfhv6ccAAAAJcEhZcwAAAEgAAABIAEbJaz4AAAA5SURBVCjPY2DABgSxAPoJYgVKWACDMRbA4IIFMIRiAQxpWAB2lRQKEm9RORbA0IEFYA+QQRib2AQBXQZrlUZGX0YAAAAldEVYdGRhdGU6Y3JlYXRlADIwMTMtMTAtMDdUMTM6MTU6MTYrMDI6MDDZjlWvAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDEzLTEwLTA3VDEzOjE1OjE2KzAyOjAwqNPtEwAAAABJRU5ErkJggg==",
+        "name": {
+            "common": "Austria",
+            "ces": "Rakousko",
+            "cym": "Awstria",
+            "deu": "Österreich",
+            "fra": "Autriche",
+            "hrv": "Austrija",
+            "ita": "Austria",
+            "jpn": "オーストリア",
+            "nld": "Oostenrijk",
+            "por": "Áustria",
+            "rus": "Австрия",
+            "slk": "Rakúsko",
+            "spa": "Austria",
+            "fin": "Itävalta",
+            "est": "Austria",
+            "zho": "奥地利",
+            "pol": "Austria",
+            "urd": "آسٹریا",
+            "kor": "오스트리아"
+        }
+    },
+    "RS": {
+        "currency": [
+            "RSD"
+        ],
+        "callingCode": [
+            "381"
+        ],
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "flag": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAeCAIAAADRv8uKAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAAASAAAAEgARslrPgAABFhJREFUSMe9ll1sFFUUx8+5987O7sxOu91lC8uq9IuS0ihpJRqlBQNWjQajLwY1+ABoDCYajTEmvsiDr774wJMx8cHwZIxRHwgiImBEHviKfKwSKdCPbbs7ne7OzM7MvccH0Zhti3UK/nOf7tyZX/5nzv/k4okHhmCJQgBa6tl/FVsikhRShID/GxgRGFJE3ApFNqCQgCGw28C/JRgBfJ+8QOfJKxn9fDaR0JLUCKHuAxDgsvBi0SdEIIF6e1Rnu6t8ZQHTeL0Yct1kozNYugpRBIIDxfztizkmYFxu7m8MtcPdER04sh7swWwDDhzB1GyweWW0pQ9MA6S8E6UWkCf21cmgMQEdqyqzdnniOiuu9lM2fvEjWD6IRGy7AIDHF4wTIo/IyZHTv0KJq62Ql4EjwU9pxRkcFao7dbmSu0GRFj9gQiz4KpHiZI5hVLzeNiyFO9ZATRFL0VXLZJXTo+nfDZUiQfH7S9ioNbsFUEQpXbO4vHFNMF+0lMv2CrNBvFCteixXvY75pPJSiboXYNzexsKWt5q2OJCN2pvJ6RfNOX9NZwAnxeBz7Ogpcmsw8mhY+jzh9OiV2uFy4z25xowaKtZYWcAxB6pxveb5HR+8/duhn8rHPlmzM2UUdgflKfGQefngmWyuv3vfG9/sfd8mEaKKB2YCqHkhgOeZa3v0wUGzfy0/m5378Ou2gb7C9hFn/5fwrZZev17r6mkZHEC3Lhgu8IWlrPmtRYggI766UJ+eth7bVnh1tzPnVhs+RmFjZW/+hR35l56v2TOsWCB1DQApVmcvlmMkUoTgVqu4Zag6eaP63fdzJ09Nnz+D2x5x3bpSkm6GOGaeFh+ZkdS4SGiJyJ5FzzcMQzdNFkbRTEVL6BpEGMnljOtFwIxFruu6dSmU2d3V98qeto4Oput9e3YFuaz0PB9lUKshYuzRJeYHEQGAM3A9nXG0WuZKpakfjnEhNNMcP3bCGNjQ1tWVbNShXkfGECBelEUYNQ96BQTEw6lp6ThRMj1X+tWenMyNT1AmY4+PyUxLsGFDgqtgfEIBC0Op4jnOZ8zmMgMkmCaUwwEr5y5m7h8IPc8ZHU0FjUQ2u+qJkZnT51o33suCIJdrT0NMMFYct3lPKZ42naNH7Ytn7SuHo/aieQmSu3Zga4v30cd+p5DlX3Ldj1vFruxT22W9BozHcdxmpZr3iADBHNh46dN3k0VbP3Ee0sP5detQ18atdHDos8Sm1rHj+4f3HTQEkGUgW9rFramuNF8ASkqeMfqefse/oPjDYD45zLnGQmluHdK2GfWS07PpdaPnHiUlIFIsMVxIjHMiWv3sM11bX7OPcKuzX0vpQtOs7l7nlFG8b2f3y3sBgHGOsUWL3yKIFCKzj/9cKV2QSqGmccEzd3W2bXoQcLmXvVuBAYCUQsZIysieBcZEi4Wck1KIeGfBN9l/Y4iIKF43/WfwX3wCgGW6/KfEUg/ePuSfug1Fi6c/ADM9TeJi4wSsAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDEzLTEwLTA3VDEzOjE0OjUzKzAyOjAw4D4fzAAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxMy0xMC0wN1QxMzoxNDo1MyswMjowMJFjp3AAAAAASUVORK5CYII=",
+        "name": {
+            "common": "Serbia",
+            "ces": "Srbsko",
+            "deu": "Serbien",
+            "fra": "Serbie",
+            "hrv": "Srbija",
+            "ita": "Serbia",
+            "jpn": "セルビア",
+            "nld": "Servië",
+            "por": "Sérvia",
+            "rus": "Сербия",
+            "slk": "Srbsko",
+            "spa": "Serbia",
+            "fin": "Serbia",
+            "est": "Serbia",
+            "zho": "塞尔维亚",
+            "pol": "Serbia",
+            "urd": "سربیا",
+            "kor": "세르비아"
+        }
+    },
+    "IE": {
+        "currency": [
+            "EUR"
+        ],
+        "callingCode": [
+            "353"
+        ],
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "flag": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAeBAMAAACs80HuAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAACFQTFRFMZQANJUDJY4Autup/////P37//3898uv5loC52UT52MQGbSutQAAAAFiS0dEBI9o2VEAAAAJcEhZcwAAAEgAAABIAEbJaz4AAAAeSURBVCjPY2AAAUZlVxcgSKmYtQoEGEYFRwVpKQgAg3q7n/McyNsAAAAldEVYdGRhdGU6Y3JlYXRlADIwMTMtMTAtMDdUMTM6MTQ6MzArMDI6MDAXuQzWAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDEzLTEwLTA3VDEzOjE0OjMwKzAyOjAwZuS0agAAAABJRU5ErkJggg==",
+        "name": {
+            "common": "Ireland",
+            "ces": "Irsko",
+            "deu": "Irland",
+            "fra": "Irlande",
+            "hrv": "Irska",
+            "ita": "Irlanda",
+            "jpn": "アイルランド",
+            "nld": "Ierland",
+            "por": "Irlanda",
+            "rus": "Ирландия",
+            "slk": "Írsko",
+            "spa": "Irlanda",
+            "fin": "Irlanti",
+            "est": "Iirimaa",
+            "zho": "爱尔兰",
+            "pol": "Irlandia",
+            "urd": "جزیرہ آئرلینڈ",
+            "kor": "아일랜드"
+        }
+    },
+    "LT": {
+        "currency": [
+            "EUR"
+        ],
+        "callingCode": [
+            "370"
+        ],
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "flag": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAeBAMAAACs80HuAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAC1QTFRF/7MA/rMA/7UA5q0BC3YIAHIIAXMIAHMIAHQICG4IrQsBxAAAvgEAvwAA////KWO2egAAAAFiS0dEDm+9ME8AAAAJcEhZcwAAAEgAAABIAEbJaz4AAABCSURBVCjPY2AYfEAQC2BQwgIYjLEABhcsgCEUC2BIwwIYyrEASgWxWtSBBTDMxAIYVmEBDLuxAIYzWADDXSxgYAUBMVMEYE0sp5IAAAAldEVYdGRhdGU6Y3JlYXRlADIwMTMtMTAtMDdUMTM6MTU6MDcrMDI6MDCzU16FAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDEzLTEwLTA3VDEzOjE1OjA3KzAyOjAwwg7mOQAAAABJRU5ErkJggg==",
+        "name": {
+            "common": "Lithuania",
+            "ces": "Litva",
+            "deu": "Litauen",
+            "fra": "Lituanie",
+            "hrv": "Litva",
+            "ita": "Lituania",
+            "jpn": "リトアニア",
+            "nld": "Litouwen",
+            "por": "Lituânia",
+            "rus": "Литва",
+            "slk": "Litva",
+            "spa": "Lituania",
+            "fin": "Liettua",
+            "est": "Leedu",
+            "zho": "立陶宛",
+            "pol": "Litwa",
+            "urd": "لتھووینیا",
+            "kor": "리투아니아"
+        }
+    },
+    "LV": {
+        "currency": [
+            "EUR"
+        ],
+        "callingCode": [
+            "371"
+        ],
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "flag": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAeBAMAAACs80HuAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAABVQTFRFqyMdqyQeqh8ZsTIs+fDw//////7+uszw1AAAAAFiS0dEBfhv6ccAAAAJcEhZcwAAAEgAAABIAEbJaz4AAAAySURBVCjPY2AYykAQC2BQwgIYjLEABhcsgCEUC2BIwwKwC2LVjtUirE7C6nis3hzKAACpijfJ8lhDKwAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAxMy0xMC0wN1QxMzoxNDo1OCswMjowMOI5SzYAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMTMtMTAtMDdUMTM6MTQ6NTgrMDI6MDCTZPOKAAAAAElFTkSuQmCC",
+        "name": {
+            "common": "Latvia",
+            "ces": "Lotyšsko",
+            "deu": "Lettland",
+            "fra": "Lettonie",
+            "hrv": "Latvija",
+            "ita": "Lettonia",
+            "jpn": "ラトビア",
+            "nld": "Letland",
+            "por": "Letónia",
+            "rus": "Латвия",
+            "slk": "Lotyšsko",
+            "spa": "Letonia",
+            "fin": "Latvia",
+            "est": "Läti",
+            "zho": "拉脱维亚",
+            "pol": "Łotwa",
+            "urd": "لٹویا",
+            "kor": "라트비아"
+        }
+    },
+    "HR": {
+        "currency": [
+            "HRK"
+        ],
+        "callingCode": [
+            "385"
+        ],
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "flag": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAeCAIAAADRv8uKAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAAASAAAAEgARslrPgAABOpJREFUSMftlltsVFUUhtfa+9zamXbamU5LL1LbalvAlFgh6UWJSalWIZEHgwUEEwMPhpCIxIQHTRQi0RiMGOMlITGYUIhaJRjRBgpKIBoiWKwtnU652Nt0epvOTDszZ+bsvXwYfJQzQNAXd9br+b9zvrP23gv7vUXwXyzldh+QgADAECQgAXAgApAEHOhegFECEWMgySXiiBiWPEekVIRZpmpIBsow6qBwtCxEhhm8BMsESyRzENwLUVcqdmLJ2uMlj7p0/fiWl9976Q13lhEsrTlRsyaPC1cknMNVJgUA2mby7Q6njVsiF8M9u94+X11fremnxzRjYmaqrWnvuqbeMqPXs3T/T+6jU57cMu/YmqZDW15s6O3VQtNSUfFuwJLxnFj49OqNXc8uymsc/SjQ3Nh9apQc53VtZc352kjf9WnRkjqJM5NfNr9wY2d93eLOC/HW1RfOxDSd0a2E2/xjBLKYUhgOzEWLpuJk1FVqDt4WGTqZLO1WHqvJuX4u1LjtwcN1yyYjfYfv66w/07y5ItptSbJ1zbc7cwDxnwoBkrpRccMXqGuB5ufm1cSV32YuWmXBRcX595ehWVo+Mu27WPBjqKHk6UZj+Grr992rfj07l7I45wBwi2SFkkmbj2Ysbiaf+uLgp4a2se9StTpYkHUtdyypfaIRMGmZC6SG1cKRoOPa2vWRb7+OnvoO8vKladrEDi5ZZiMFUVopw1voyXMlfD513TPObdtiPv/U/v1yft69daurtSXe9cPC+wewsDjucJjXr6GqAtnsKKXqwi82YCJQVTk55V/dGhvylyBzVVdrUiZ6eqxwyPvqLl5VZXm8Ab+fjwYqO79ytD0ho1FgNhtVYU6nPRgRDCOruBhjMQQQs7OpsXG1vJxH8kUkKiMRGY1kVT7AVI05HIDInE5bMJCUNiUEEVnjgaRvkIgm39rXqxn+5Q8nh0dIiD/Xt/dydbh9gxRWanQ0NegnIhLCNlYBtD9l0os5HOkXtZIJEQqx3BxgjGKxlEjJWAwZZ7kumUim28I2FsmuC9KqxURw5sAHQlioKIrXK6NREYkgY6jr3OMRs7NkmmQm3c9v0lc8AlLaq5ZENpVWHZgYKF18CWB85ytElLhy5Q8juwcg1HGEiEIdR3oAeoEtnOwmImlZtrGKvei0NCKlqFCPRtJbRcyF1bIyNjeXPgYoldS8RajrwDkAYAaXBAghbcoSgsiaCJo9PVZ0Prhnb7+3aKihKdHfb83MDm/c1OcuGN60OTUzYw4MpIauCiJhCdtYpXbzNxn0FZMLsWM7ah9a7pAEiakgGoZSUsJdLhGOmLPT2eGw4nYvhOfbXj83Ii/raNs4gNBw0JbLEURMbGlwHmqRIz9fRjPBELSqKmYYpt8vTTMJvGJF7YfDnh3H5ngWFxkMIwrT7YcQAuA6/9yHFZfP7l5TYrz2bmJgwFe/0orPV3Ycyd/QLjuPdr7TsTt3PeRqwJBlApb2Vm7CGZhvGo+PBWDf74MFeqqoKE9Op7IdigiHP+5Xdue1L5gWIgiZUSDCqs8yAqedA4i4yDPEk1Xa0viYZpnjnvKuURgMSpatErO9Gu4UDACcgZRIpgRNA2RgmqAAV1Fmqu5v1bdFBQAhAYGULASZBADIQkmZ6r0rMAAQgCXh5igp7yAAIMPx9l6s/8H/2voLWvMlZwzytxcAAAAldEVYdGRhdGU6Y3JlYXRlADIwMTMtMTAtMDdUMTM6MTQ6MjUrMDI6MDCJKyPvAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDEzLTEwLTA3VDEzOjE0OjI1KzAyOjAw+HabUwAAAABJRU5ErkJggg==",
+        "name": {
+            "common": "Croatia",
+            "ces": "Chorvatsko",
+            "cym": "Croatia",
+            "deu": "Kroatien",
+            "fra": "Croatie",
+            "hrv": "Hrvatska",
+            "ita": "Croazia",
+            "jpn": "クロアチア",
+            "nld": "Kroatië",
+            "por": "Croácia",
+            "rus": "Хорватия",
+            "slk": "Chorvátsko",
+            "spa": "Croacia",
+            "fin": "Kroatia",
+            "est": "Horvaatia",
+            "zho": "克罗地亚",
+            "pol": "Chorwacja",
+            "urd": "کرویئشا",
+            "kor": "크로아티아"
+        }
+    },
+    "BA": {
+        "currency": [
+            "BAM"
+        ],
+        "callingCode": [
+            "387"
+        ],
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "flag": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAeCAMAAABpA6zvAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAsFQTFRFTTpX5LcX/99R/MMA/8sC/8wAMTO3lpG8//fH/uRU/NEg/soA/80C/8wBLSyp1dTs////yL22+tQG/9IA/soD/8wCAwOXlpXSrKzcY2O+TThU8cAA/9kv/cwR/8kADg6fFxegAACSHR2kBAevYleH7+K2/+Rg/NEi/ssDAACYAQGYBASbAACWEA+clpjb8O70+N9J/9AA/coEAACZAQGZBQWbAACRV1e33NzvsrLhZ1BW8sQC/9UK/s8c/8oAMzOuCAiYKCinDxGyOi953L5a/+yN+8oF/s0OAgKZAgKXAACTVljF4OH4///8+/Gf/tMR/ckAAgKaAwOWysnm8/X/oo9+6LsA/9kA/swP/80EAACXHR2lQUGzIB+jOTu+Jh6BzqIP/+qC/M4e/80BAACVAQGXGh2xsa/V//7w/PXG/d9P/cgAb2/D39bK6b8J/9oA/ssF/8wG/80DXFy9QUGwX2DFODCGxZgK/9cy/ttV/sUAAQGaBQWYAACUBQSUAACkcm60/fC+/PXT/OJ0/c4UAwOaJyer6On59dpT/9QAJCOkhIPKd3jLeW6SwJUU/80A/tpR/8oHCwueBgaXAgKTAgOlNDKl7dNu//bO/OB0/dQz/8sAAQGVCguho6Xj+/TC/9gU/8wDAwObfXzEo6Tht62yzqIQ/c8h/9Ii/8gAHh6lAACPERKpFhSiyqs+/++D++WP/tIj/84LAgKWAACaZ2nO/v7+/uZ1/coCJiWiy8vr0tLo8Mor/s8A/9EgJyepGhmfEhOiKSipp4g6/90V++ql/9AU/88ONTW25+Lb+/HG/NMxBgaalpXT9fj/+ueE/9EA/swD/80M/80JBwecT0+2EhKhVFOzoYJA/88A/d5o/9lHAQGWDA2mzL+o///k/PXb/eN7BQWaLi+0+fr//Pjj/9gVSEiyVFS6YWG9za1OtDXQrwAAAAFiS0dEEJWyDSwAAAAJcEhZcwAAAEgAAABIAEbJaz4AAAG/SURBVDjLY2BgZGJmYSUMGNjYOTi5uHl4CSrk4xcQFBIWERUlpFBMXEJSSlpGVo6AmQzyCopKyiqqauoarHiVMmhqaevo6gnoGxga8eJTyWBsYmxqZm5haWVtY2vHi0+hsbGJpr2Do5Ozi6ubO27rQQqNjXU8PL28fXz9/ANEefEqDDQJNA4KDgkNC4+IxKsQaH1UdExsXHxCYhJ3Ml6FxsZaKalmaekZmVnZWKMJodA4MNDULEcgNy+/oLAIr0KgUp3iktKy8orKqiL8Co2ra2rr6hsam5pbWEXxKjT2aG1NaWsX6OgsZCkSxacQZH1Xd09vX/+EiXb4FRprTpo8Zeq06TNmzpqNHPqYCo01W7XnzJ0nMH8B90IWHnwKgWCR2eIlS5cZLl+xkhe/QmPtVavXrF23fsPGTTDv41BoHKW9ecvWbQLbd/Cy8OJVaGLcWrtz1+49ezX2zZ6NTyFQqc7+AwcPHT5y9NhxUCrFrRBovZaYzomTAqdOz17Ii1ehiUn1mdVnz52/cPHSZbwKQWF65eq16zdu3rq9koBCY+M5d6Lu3rv/4CFBhYHVj7weP3n6jKBCoNLa5y9evgIAadzd4Wn8vlkAAAAldEVYdGRhdGU6Y3JlYXRlADIwMTMtMTAtMDdUMTM6MTQ6MzIrMDI6MDCAJh3/AAAAJXRFWHRkYXRlOm1vZGlmeQAyMDEzLTEwLTA3VDEzOjE0OjMyKzAyOjAw8XulQwAAAABJRU5ErkJggg==",
+        "name": {
+            "common": "Bosnia and Herzegovina",
+            "ces": "Bosna a Hercegovina",
+            "cym": "Bosnia a Hercegovina",
+            "deu": "Bosnien und Herzegowina",
+            "fra": "Bosnie-Herzégovine",
+            "hrv": "Bosna i Hercegovina",
+            "ita": "Bosnia ed Erzegovina",
+            "jpn": "ボスニア・ヘルツェゴビナ",
+            "nld": "Bosnië en Herzegovina",
+            "por": "Bósnia e Herzegovina",
+            "rus": "Босния и Герцеговина",
+            "slk": "Bosna a Hercegovina",
+            "spa": "Bosnia y Herzegovina",
+            "fin": "Bosnia ja Hertsegovina",
+            "est": "Bosnia ja Hertsegoviina",
+            "zho": "波斯尼亚和黑塞哥维那",
+            "pol": "Bośnia i Hercegowina",
+            "urd": "بوسنیا و ہرزیگووینا",
+            "kor": "보스니아 헤르체고비나"
+        }
+    },
+    "SK": {
+        "currency": [
+            "EUR"
+        ],
+        "callingCode": [
+            "421"
+        ],
+        "region": "Europe",
+        "subregion": "Central Europe",
+        "flag": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAeCAMAAABpA6zvAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAr5QTFRF//////7+//v7//z8//39/v7+/v39/v///+7u/3t7/nh4/nl5/nd3/4aG/4+P/4mJ/np6/nBw/87O/vz8/97e/gUF/gAA/gEB/gMD/kVF//f3/nx8/gQE/6Gh7u727uz17fT9+dnc/wsL/gYG/goK/iUl/mlp/ggI/aKj7///7eryEhKHFRSHBAyHr4+2/xUO+wAA/5WV/7q6/7e3/6en/8PD/iAg/QAA/wAA6o2XHy+eDwuBExOHAAB8AwJ8AAB7qYiy/xYO+gAA/6mp//T0/+fn/+zs//Ly/iEh6YyWDR6TAAB2AQF8AgJ/BgR/AAB+qYmz/xcP/hMT/i0t/mpq/h4e/hkZ/QEC6YyXDyCWAAB5AwN/AQF+BAN+qIiz/xoS/mJi/+/v//Dw/+Li6IyXDh+VAAB4AgJ+qIm0/xsT/mBg//X1/9nZ/eTl+/7//ezt/9vb/6Sk6I2YBQR/mY/B/y4m+w4P+gkL/ikp/25u/AAA+gUH+gsN+wEC/wEA252vBRKNAAB6BQWAAABzYm+7/2Fa/wQD/gIC4yAtrcLrzVBo/wMD/wIB/ycgqprDBAN/AgF9AAB3IS+b9ZufqAQvnQIypgItDwF3AAF/ggI/tgIlmAU46QAA/3BmXGu5AAByAAGAAwOBsKHGfTxzAACABASIAAGDAQGABAR/AgKAAAGCAwKEAAGKOwti27LAChaOAAB9AQKBEgF1FAN3BwBwPzONp7LeAAJ3BQJ6AgF+BAJ+CQZ/AABseYnLcmyuAQBrFgR47QEK7QEJ7gQN5gAA/2ddlqDVAQB1BQSAAwJ5AABxYnfG/peR6AAA7QMM/wQC/2Nbta7RHSycAAB0AgJzDRiPk5vR/4qF/gIA/zAp86GkkY/GOkyteX/B5qq2/0tD/QQE/QIC/QEB+wEB/zwz/4N+/05G/gUC/QMD/AICh3PFowAAAAFiS0dEAIgFHUgAAAAJcEhZcwAAAEgAAABIAEbJaz4AAAHCSURBVDjLY2AYdoCRCQyYmcEUC2WGsbKysrFzcHJxc/Pw8vEDKQFBIXZhVgwAUsvCICIqJi4hJiklLSYhJiMmy8CExUQ5OTl5BUUlCWUVMVUGNTFlZXUxDU0tOQzAoK2traOrp28gZmhkzCBkYmpmbmFpZW2jjQ4YbG1t7ewdHJ3EnF1cGVzc3D3MLTy9vH1s0QGDr6+vn39AoFOQh1gwQ4hYaFi4RURkVLQvOmCIiYmJ9Y+Ld0pgdE1kSEp2NzG3SElNS49BBxCFGZlOWdk5uXn5BUmF5hZFuBQWp5WUOpWVG1QwVFZV19TW1Tc0YlfY1NzS6tTWbtHR2WXR3ePU22ffH4OpcMKECbETJ002nzJ12vS0GTNnzZ4zd958vwkYgGEBECy0XbR4ydJly1esXLV6zdp16zdsXIABGDYBweYtW7dt3+E3IWbnrt179u7bf2ATJmA4CASHDh85eqzx+IkVJ06eOn3m7LmDWABDHRicN7hw8dLlK81Xr12vulGHDTCEQ4CMwc1bt+/cvXff4MHDR+FYAIM4FMg8Fnvy9NlzA5l2cawArlBc4oVTldNLGXFxQgqBSkVxKkNViBcMoEIAB2QRibuKCK0AAAAldEVYdGRhdGU6Y3JlYXRlADIwMTMtMTAtMDdUMTM6MTU6MTgrMDI6MDCJsS7yAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDEzLTEwLTA3VDEzOjE1OjE4KzAyOjAw+OyWTgAAAABJRU5ErkJggg==",
+        "name": {
+            "common": "Slovakia",
+            "ces": "Slovensko",
+            "deu": "Slowakei",
+            "fra": "Slovaquie",
+            "hrv": "Slovačka",
+            "ita": "Slovacchia",
+            "jpn": "スロバキア",
+            "nld": "Slowakije",
+            "por": "Eslováquia",
+            "rus": "Словакия",
+            "slk": "Slovensko",
+            "spa": "República Eslovaca",
+            "fin": "Slovakia",
+            "est": "Slovakkia",
+            "zho": "斯洛伐克",
+            "pol": "Słowacja",
+            "urd": "سلوواکیہ",
+            "kor": "슬로바키아"
+        }
+    },
+    "EE": {
+        "currency": [
+            "EUR"
+        ],
+        "callingCode": [
+            "372"
+        ],
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "flag": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAeBAMAAACs80HuAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAACFQTFRFAAD/AAD+AADmAAALAAAAAAABAQEBCwsL5ubm/////v7+G0fY8QAAAAFiS0dECfHZpewAAAAJcEhZcwAAAEgAAABIAEbJaz4AAAA7SURBVCjPY2AYfEAQC8CuUgkLYDDGAhhcsACGUCwAu0oKBdOwAOwqy7EAhg4sgGEmFsCwCgvArnJABQESX7dJCCjvGwAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAxMy0xMC0wN1QxMzoxNDo0OCswMjowMC6TS6gAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMTMtMTAtMDdUMTM6MTQ6NDgrMDI6MDBfzvMUAAAAAElFTkSuQmCC",
+        "name": {
+            "common": "Estonia",
+            "ces": "Estonsko",
+            "cym": "Estonia",
+            "deu": "Estland",
+            "fra": "Estonie",
+            "hrv": "Estonija",
+            "ita": "Estonia",
+            "jpn": "エストニア",
+            "nld": "Estland",
+            "por": "Estónia",
+            "rus": "Эстония",
+            "slk": "Estónsko",
+            "spa": "Estonia",
+            "fin": "Viro",
+            "est": "Eesti",
+            "zho": "爱沙尼亚",
+            "pol": "Estonia",
+            "urd": "اسٹونیا",
+            "kor": "에스토니아"
+        }
+    },
+    "DK": {
+        "currency": [
+            "DKK"
+        ],
+        "callingCode": [
+            "45"
+        ],
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "flag": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAeBAMAAACs80HuAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAADBQTFRF+xsi+xgf/EpQ//Dx//39+xsi+xgf/EpQ//Lz////+xUc/EhO//Ly/HB0//X1//7+C2BCZQAAAAV0Uk5TtbW2t7cPsqOPAAAAAWJLR0QJ8dml7AAAAAlwSFlzAAAASAAAAEgARslrPgAAAFBJREFUKM9jCAWBsIqZ7amhMBDAMPwE00Aga8/M08vSYCCRoRwEqu/NfLu9HAaKGDpAoOf9zH8nOmCgmWEmJpiCXRCrdqwWYXXSIAw6GggCAFkM9x0CLLn8AAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDEzLTEwLTA3VDEzOjE0OjMxKzAyOjAwsc4HYgAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxMy0xMC0wN1QxMzoxNDozMSswMjowMMCTv94AAAAASUVORK5CYII=",
+        "name": {
+            "common": "Denmark",
+            "ces": "Dánsko",
+            "cym": "Denmarc",
+            "deu": "Dänemark",
+            "fra": "Danemark",
+            "hrv": "Danska",
+            "ita": "Danimarca",
+            "jpn": "デンマーク",
+            "nld": "Denemarken",
+            "por": "Dinamarca",
+            "rus": "Дания",
+            "slk": "Dánsko",
+            "spa": "Dinamarca",
+            "fin": "Tanska",
+            "est": "Taani",
+            "zho": "丹麦",
+            "pol": "Dania",
+            "urd": "ڈنمارک",
+            "kor": "덴마크"
+        }
+    },
+    "CH": {
+        "currency": [
+            "CHF"
+        ],
+        "callingCode": [
+            "41"
+        ],
+        "region": "Europe",
+        "subregion": "Western Europe",
+        "flag": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAeCAMAAABpA6zvAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAFFQTFRF+gAL+gMO+gQP+gAC+gAA+gAJ+0xU/GRr/F9m+gEM+gAG/svN//////z9/sjK//n5+gIN+gAH+gAF+gEH/svM/tja/srM//T1//7//GBn//v7oSjeMQAAAAFiS0dEDIGzUWMAAAAJcEhZcwAAAEgAAABIAEbJaz4AAACkSURBVDjLzZPdDoMgDIUFK1Io4L/o+z/oILswy9yo2bLsXLXJF0hPe6rqjyRkkmCANSTVZa5RrdatakocGkvOkTVYBD2FQJ4B8l7EA8R3FGLX38G+y92LeQdjzAhTBicYUzOczS5Azd5au6wUI61LKv2s4Nl5CRvt9KCdNpAnoKbgkmJmYq4C6c9A5tfsYdj2XDCcv8IrR/H9M+NHgR8uflx/phvpaw7xytebpwAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAxMy0xMC0wN1QxMzoxNDozOCswMjowMCRWQrEAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMTMtMTAtMDdUMTM6MTQ6MzgrMDI6MDBVC/oNAAAAAElFTkSuQmCC",
+        "name": {
+            "common": "Switzerland",
+            "ces": "Švýcarsko",
+            "deu": "Schweiz",
+            "fra": "Suisse",
+            "hrv": "Švicarska",
+            "ita": "Svizzera",
+            "jpn": "スイス",
+            "nld": "Zwitserland",
+            "por": "Suíça",
+            "rus": "Швейцария",
+            "slk": "Švajčiarsko",
+            "spa": "Suiza",
+            "fin": "Sveitsi",
+            "est": "Šveits",
+            "zho": "瑞士",
+            "pol": "Szwajcaria",
+            "urd": "سویٹذرلینڈ",
+            "kor": "스위스"
+        }
+    },
+    "BQ": {
+        "currency": [
+            "USD"
+        ],
+        "callingCode": [
+            "599"
+        ],
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "flag": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAeBAMAAACs80HuAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAACdQTFRFrhworh0prRgktCs3+fDw//////7+/v7+8PL3MFOTHUOJIkeMIUaLLAxpEQAAAAFiS0dEBfhv6ccAAAAJcEhZcwAAAEgAAABIAEbJaz4AAABASURBVCjPY2AYfEAQC2BQwgIYjLEABhcsgCEUC2BIwwKwq6RQsBwLwK6yAwtgmIkFMKzCAhh2YwEMZ7CAgRUEACAv6G1C11PvAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDEzLTEwLTA3VDEzOjE1OjA1KzAyOjAwJMxPrAAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxMy0xMC0wN1QxMzoxNTowNSswMjowMFWR9xAAAAAASUVORK5CYII=",
+        "name": {
+            "common": "Caribbean Netherlands",
+            "ces": "Karibské Nizozemsko",
+            "deu": "Karibische Niederlande",
+            "fra": "Pays-Bas caribéens",
+            "hrv": "Bonaire, Sint Eustatius i Saba",
+            "ita": "Paesi Bassi caraibici",
+            "jpn": "ボネール、シント・ユースタティウスおよびサバ",
+            "nld": "Caribisch Nederland",
+            "por": "Países Baixos Caribenhos",
+            "rus": "Карибские Нидерланды",
+            "slk": "Bonaire, Sint Eustatius a Saba",
+            "spa": "Caribe Neerlandés",
+            "fin": "Bonaire, Sint Eustatius ja Saba",
+            "est": "Bonaire, Sint Eustatius ja Saba",
+            "zho": "荷蘭加勒比區",
+            "pol": "Antyle Holenderskie",
+            "urd": "کیریبین نیدرلینڈز",
+            "kor": "카리브 네덜란드"
+        }
+    },
+    "MD": {
+        "currency": [
+            "MDL"
+        ],
+        "callingCode": [
+            "373"
+        ],
+        "region": "Europe",
+        "subregion": "Eastern Europe",
+        "flag": "data:image/png;base64,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",
+        "name": {
+            "common": "Moldova",
+            "ces": "Moldavsko",
+            "deu": "Moldawien",
+            "fra": "Moldavie",
+            "hrv": "Moldova",
+            "ita": "Moldavia",
+            "jpn": "モルドバ共和国",
+            "nld": "Moldavië",
+            "por": "Moldávia",
+            "rus": "Молдавия",
+            "slk": "Moldavsko",
+            "spa": "Moldavia",
+            "fin": "Moldova",
+            "est": "Moldova",
+            "zho": "摩尔多瓦",
+            "pol": "Mołdawia",
+            "urd": "مالدووا",
+            "kor": "몰도바"
+        }
+    },
+    "BE": {
+        "currency": [
+            "EUR"
+        ],
+        "callingCode": [
+            "32"
+        ],
+        "region": "Europe",
+        "subregion": "Western Europe",
+        "flag": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAeBAMAAACs80HuAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAB5QTFRFpY0I+5QZAAAAAQEA/90M/9kM/9wL8xkw8xgw////QjDoUwAAAAJ0Uk5T/v6mqd4QAAAAAWJLR0QJ8dml7AAAAAlwSFlzAAAASAAAAEgARslrPgAAABxJREFUKM9jUAIDA9dQIAgT7wADhlHBUUFaCgIA0Ka53YIT3pMAAAAldEVYdGRhdGU6Y3JlYXRlADIwMTMtMTAtMDdUMTM6MTQ6MjYrMDI6MDC4wzlyAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDEzLTEwLTA3VDEzOjE0OjI2KzAyOjAwyZ6BzgAAAABJRU5ErkJggg==",
+        "name": {
+            "common": "Belgium",
+            "ces": "Belgie",
+            "cym": "Gwlad Belg",
+            "deu": "Belgien",
+            "fra": "Belgique",
+            "hrv": "Belgija",
+            "ita": "Belgio",
+            "jpn": "ベルギー",
+            "nld": "België",
+            "por": "Bélgica",
+            "rus": "Бельгия",
+            "slk": "Belgicko",
+            "spa": "Bélgica",
+            "fin": "Belgia",
+            "est": "Belgia",
+            "zho": "比利时",
+            "pol": "Belgia",
+            "urd": "بلجئیم",
+            "kor": "벨기에"
+        }
+    },
+    "AM": {
+        "currency": [
+            "AMD"
+        ],
+        "callingCode": [
+            "374"
+        ],
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "flag": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAeBAMAAACs80HuAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAABtQTFRF/wAA4AAfHwDgAAD/HxTg4JEf/6YA/6UA////f9mp/QAAAAFiS0dECIbelXoAAAAJcEhZcwAAAEgAAABIAEbJaz4AAAApSURBVCjPY2AYykAQC2BQwgIYjLGAwSjoggUwhGIBDGlYAEM5FjAIBQFxsYIpc0RtnwAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAxMy0xMC0wN1QxMzoxNTowNyswMjowMLNTXoUAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMTMtMTAtMDdUMTM6MTU6MDcrMDI6MDDCDuY5AAAAAElFTkSuQmCC",
+        "name": {
+            "common": "Armenia",
+            "ces": "Arménie",
+            "cym": "Armenia",
+            "deu": "Armenien",
+            "fra": "Arménie",
+            "hrv": "Armenija",
+            "ita": "Armenia",
+            "jpn": "アルメニア",
+            "nld": "Armenië",
+            "por": "Arménia",
+            "rus": "Армения",
+            "slk": "Arménsko",
+            "spa": "Armenia",
+            "fin": "Armenia",
+            "est": "Armeenia",
+            "zho": "亚美尼亚",
+            "pol": "Armenia",
+            "urd": "آرمینیا",
+            "kor": "아르메니아"
+        }
+    },
+    "AL": {
+        "currency": [
+            "ALL"
+        ],
+        "callingCode": [
+            "355"
+        ],
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "flag": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAeCAMAAABpA6zvAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAgdQTFRF3iEQ3CEQ3SEQ2iAQ2yEQ3yEQ5iIR4iIQ5SIQ5yIR7iMR7yMR6SMR7SMR7CMR4yIQ4CEQuBsNxR0OvRwOtxsNahAIcREIrxoN5SIRnBcLkRYKYw8HhhQK4SEQxh0O1CAPsxsNGgQClhYLoxgMZQ8HCwIBAAAAIgUC0B8PvxwOEAIBZw8HqRkMexIJJwYDZA8HIwUD0x8PkxYLQgoFXA4HTAsFcxEIVg0GYA4HrRoMAQAAjhUK6yMRTgwGHgQCRgoFKQYDeBIJNwgEJgYDFQMCPQkEYQ4HPAkESgsFLQcDKwYDWg0GIAUCaxAIdxIJAwAATAsGLgcDeRIJ1iAPUwwGOgkEOwkEEwMBFgMCDAIBHAQCUAwGwh0O5CIQdBEIHQQCbhAIgxMJPgkESwsFCAEBAgAADQIBNQgE1SAPPwkFUQwGSAsFJQUDFwMCGwQCRwsFUgwGYg8H1yAQRAoFVAwGmxcLDgIBRwoFyh4PWA0GjRUKWw0HMQcE2CAQoBgMMgcETQwGvBwOQwoFRQoFcBEIyR4OJAUDwx0OmRcLfRMJBwEBQQoFBAEAKAYDjxUKpBgMFAMB2SAQtRsNzx8PbRAI6iMRxx4OJQYDLAYDOAgEHwUCIQUCNggE4SIQrhoNgBMJyB4ONAgE0R8PmBcLqBkMphkMrBoM9iUS2yAQTwwGfxMJ6CMR////lzGo6AAAAAFiS0dErFdl8osAAAAJcEhZcwAAAEgAAABIAEbJaz4AAAHtSURBVDjLY2AYWoCRiYmBkZmZkYGBhYWZhYGJiRG7OlY2dg4mTi5uNkYmHl5uPgZ+AU7s6lgEhYTZRUTFxCWYJaWkZWTl5BVYsahjYmVSVFJWUVVTU9fQ1FJTU9XW0dXjZMKikoVP38DQyNjEVE3STM3cwkTB0srahgWbicy2dvYOamqOTs4urm5qau4enioS2ExkYHXz8vZRU/PVV1PzM1XzdwgIDMKmjEkgOCQ0LFxNLSJSTS0KSPtEe5vGxGI1Ms4jOl7NSg0MrKwczBISsatj8k5KdkpRSwUqtUpVSwuzTxfDppBJICM6Mys7JxdkppVaXk5+gVOhAFY3FkkXJ5eU2pcBrVVLszXKL/eIw6qQv8LVo9JIpjATaJ6/hWhVUHVNMRO2qGGtrROt125ojFJLTVVrYmjW1mspxRqF/K1teu0dnYpd3Wo92Va9ff3KE9wnCmD1DU/HpMldVpXOamrFU9T0piqL22BNPUzs07rVpms3zQAF0ExplVlqlcGsWMORZarK7DlzjRwmqKkp9s6rUJ89n48Fh5GCspMnL/BdqOgSNn9RzIKJ0/ixGghUycEky8C3eEmu89JlfALsrOw41AFVAuHE5f1qXdN4mYFZBqc6CFjBv3LVamYGwoBJgD+WCGUglYTspBIAAL5eaGbLfsJqAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDEzLTEwLTA3VDEzOjE0OjQ3KzAyOjAw2Ns7QQAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxMy0xMC0wN1QxMzoxNDo0NyswMjowMKmGg/0AAAAASUVORK5CYII=",
+        "name": {
+            "common": "Albania",
+            "ces": "Albánie",
+            "cym": "Albania",
+            "deu": "Albanien",
+            "fra": "Albanie",
+            "hrv": "Albanija",
+            "ita": "Albania",
+            "jpn": "アルバニア",
+            "nld": "Albanië",
+            "por": "Albânia",
+            "rus": "Албания",
+            "slk": "Albánsko",
+            "spa": "Albania",
+            "fin": "Albania",
+            "est": "Albaania",
+            "zho": "阿尔巴尼亚",
+            "pol": "Albania",
+            "urd": "البانیا",
+            "kor": "알바니아"
+        }
+    },
+    "TR": {
+        "currency": [
+            "TRY"
+        ],
+        "callingCode": [
+            "90"
+        ],
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "flag": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAeCAMAAABpA6zvAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAActQTFRF8xkw8xox8xwz8xcv8xQs8xUs8x0z8xsy8gwk8gsk8x409Co/9CU68xIq8gQe8g8n9lpr+7O7/eDj//n6//7+/ufp+qiw9UNV8goj8xgv8xMq8yM5+7nA//////3+/eHk+qSu+Y+a+qGr/L3E+HyJ8xYt8yE3/dLX/vLz+HGA8xYu8gch8gYf8gMd8g4n9lFj9lRl8xcu8xwy8g0l+6my//v7//b39ktd8xkx8xw08gsl8x418xQr8xsx9UdZ//r7+HqH8x828xgw8xoy8xIp9T5S9llq8gkh+ZOe/ujq8yA38xYv8gwl9ThM/uXo9CtA9CM5911t/MDH+7jA8xsz8x00915u/dvf/vT1+YyY8xAo8xMr/M3S+qew8gkj8xMs9TtP/LzD+7a98gEa/L7F+7vC9259/vP1/vHz9UNW8xEp+Y6a/uzu9CM68gki/d/i9CxB92R0+HF/9UFU//39+YOQ8gId9UZZ8goi8xEo+qCp//r69ldp8gIc8gok9CI58x818xUt/MfN//f4+IGO8gUf91xt9lNk+6qz/u3v+7a++qCq+7G5/MPJ+HOB9kxe+qSt/dTY/u7v/drd+pei9TZK8g4m8yE48gUemlBhbQAAAAFiS0dEHesDcZEAAAAJcEhZcwAAAEgAAABIAEbJaz4AAAFvSURBVDjLY2AYzoCRkZEYZUxMzCysDGzshExj5+Dk4ubh5eNnwquOnZVfQFBIWERUTFxCEo8D2KWkZWTlZOUVFJWUVSRxq2RUVVOXldPQ1NLW0dXTNzAEimBXaGRsImtqZq5rwcRkyWhlbS0paWPLiMVX7Px2svayDrqOTiDgzOzk4urGKckhiaGQzd1DVtbTy9vCCQKcfXz9/AMCAwwxTQySlQ32CYGqcwoJDZMNj4iMwrCcMTpGVjY2DqrQIj4hUVZYNimZHYsbU2RlUxEmOlmkyaZnZGaxY7oxW1Y2J1cL5saQPPP8gsIiKYwwYo8qLjGVLS1zBKt01mLIKhev8KnEEj5MnFWy1fY1tcwhTExOdfUNDI02Rka22GLGkL1JtqS5xTqvla+xrV2VAWd6Y2cx6pAVke3s6u7p7WOVZMAN2A05+idMnBQxecrUCga8gNFoWp7hdCbjGbz40yPIUDYGLUNbNqJyA3F5ZlACAKV7S8gA90V0AAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDEzLTEwLTA3VDEzOjE0OjMxKzAyOjAwsc4HYgAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxMy0xMC0wN1QxMzoxNDozMSswMjowMMCTv94AAAAASUVORK5CYII=",
+        "name": {
+            "common": "Turkey",
+            "ces": "Turecko",
+            "deu": "Türkei",
+            "fra": "Turquie",
+            "hrv": "Turska",
+            "ita": "Turchia",
+            "jpn": "トルコ",
+            "nld": "Turkije",
+            "por": "Turquia",
+            "rus": "Турция",
+            "slk": "Turecko",
+            "spa": "Turquía",
+            "fin": "Turkki",
+            "est": "Türgi",
+            "zho": "土耳其",
+            "pol": "Turcja",
+            "urd": "ترکی",
+            "kor": "터키"
+        }
+    },
+    "SI": {
+        "currency": [
+            "EUR"
+        ],
+        "callingCode": [
+            "386"
+        ],
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "flag": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAeCAMAAABpA6zvAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAbBQTFRF/////v///f3+/Pz9+/z9/P3+/f7+/v7+/v7///7++vv80drut8PXpLTTq7nSvMje4Obz/f391LbBKE2hADKiNVFwGTeJMUl2HEKCAjmlUV+g+t/d/v3+/Pv8x5CdACKICz+fAjalOliBI0qQBjiiADqhJSd5+c7J/v3916atDiyKCD2gAjScIUeIFUCQBTSbADujPDh//93X/fz9/vz85ra3FCmDCz6jDzycdpLOSW25FT+dADSgTT59/+nh/f//7vL47u/28Pz/68HBGCJ6eJrR5ur07PD34Oby5urzL2C1WD54/+vn6/T97vH3GUejGkaiE0qqMTeEfWmW+/////792+j4YT91IESbF0elGUajBDaaAjedCjCQd055ssvroLDWq7vcobLXqb/iqK/QVjNsADaeBjaaCTqcCzqbAz2jNSt0bFmMyN/3wdHrzt/0rMHjXDdtHzOKBDyhCjqcCDmcCTmcBTuhPjF3j2mN29HcyLfJdk14JzOFAzuiCTmbATuiDyyKOClwLSh0BjKVCjmbBjygATyjAjyjCDueBDmeFziTzyoh4ikW3SkZ3ikYRVLwSwAAAAFiS0dEAIgFHUgAAAAJcEhZcwAAAEgAAABIAEbJaz4AAAEFSURBVDjLY2CgEWBkYmZhYWUjqI6dA0pzElLJxc3Dy8cvQECVIIOQsIiomLiEpJQ0gwwehbIMcvIKikrKKqpq6gwauFRxcHDIMmhqaevo6ukbGBoxGnNgByC1JgymZuYWllbWNrZ29ji94+Dg4Ojk7OLq5u7h6eXt4+vngB0w+Pv7BwQGBYeEMrAxhIVHREb5YwcM0UAQExsXn5CYlJySmpYejQMwZABBZlZ2Tm5efkFhUXFJBg7AUAoCZeUVlVXVNbV19aW4AERhaVlDY1NzS11rKSGFpa1t7R2deNTBFZaWteJTBlRYTyRg6CISMHQTCRh6iAQMvUQChj4iAUM/kWBkKgQAEhil/zRkdXwAAAAldEVYdGRhdGU6Y3JlYXRlADIwMTMtMTAtMDdUMTM6MTU6MDMrMDI6MDBHHHqWAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDEzLTEwLTA3VDEzOjE1OjAzKzAyOjAwNkHCKgAAAABJRU5ErkJggg==",
+        "name": {
+            "common": "Slovenia",
+            "ces": "Slovinsko",
+            "deu": "Slowenien",
+            "fra": "Slovénie",
+            "hrv": "Slovenija",
+            "ita": "Slovenia",
+            "jpn": "スロベニア",
+            "nld": "Slovenië",
+            "por": "Eslovénia",
+            "rus": "Словения",
+            "slk": "Slovinsko",
+            "spa": "Eslovenia",
+            "fin": "Slovenia",
+            "est": "Sloveenia",
+            "zho": "斯洛文尼亚",
+            "pol": "Słowenia",
+            "urd": "سلووینیا",
+            "kor": "슬로베니아"
+        }
+    },
+    "ME": {
+        "currency": [
+            "EUR"
+        ],
+        "callingCode": [
+            "382"
+        ],
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "flag": "data:image/png;base64,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",
+        "name": {
+            "common": "Montenegro",
+            "ces": "Černá Hora",
+            "deu": "Montenegro",
+            "fra": "Monténégro",
+            "hrv": "Crna Gora",
+            "ita": "Montenegro",
+            "jpn": "モンテネグロ",
+            "nld": "Montenegro",
+            "por": "Montenegro",
+            "rus": "Черногория",
+            "slk": "Čierna Hora",
+            "spa": "Montenegro",
+            "fin": "Montenegro",
+            "est": "Montenegro",
+            "zho": "黑山",
+            "pol": "Czarnogóra",
+            "urd": "مونٹینیگرو",
+            "kor": "몬테네그로"
+        }
+    },
+    "XK": {
+        "currency": [
+            "EUR"
+        ],
+        "callingCode": [
+            "383"
+        ],
+        "region": "Europe",
+        "subregion": "Eastern Europe",
+        "flag": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAeCAIAAADRv8uKAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA9VpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdFJlZj0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlUmVmIyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M2IChNYWNpbnRvc2gpIiB4bXA6Q3JlYXRlRGF0ZT0iMjAxMy0xMS0wOVQxODoyMloiIHhtcDpNb2RpZnlEYXRlPSIyMDEzLTExLTE4VDIyOjUyOjIyIiB4bXA6TWV0YWRhdGFEYXRlPSIyMDEzLTExLTE4VDIyOjUyOjIyIiBkYzpmb3JtYXQ9ImltYWdlL3BuZyIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDo2QzVGODQxRjQ3MTgxMUUzODQ1M0Y4QUE1NDU3M0Y2QyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDo2QzVGODQyMDQ3MTgxMUUzODQ1M0Y4QUE1NDU3M0Y2QyI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOjZDNUY4NDFENDcxODExRTM4NDUzRjhBQTU0NTczRjZDIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjZDNUY4NDFFNDcxODExRTM4NDUzRjhBQTU0NTczRjZDIi8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+zU2ZVAAABG5JREFUeNrUV11oW1UcPx/33OQmDW3TpKZL2pSSWFen7UC2olOn6FYFB/NBBRWZDmH4ouxBxPkuOMRHnxybsDeRwZCxyajTzS/WsdrRtN2yNva7uU2W7/txzvHcZJ3NTJN+WfHPeTicc3//749zIX53COhZsMUkOyWQV4GR22rBtIDAf0T/K8GUA6pzSot7au0Z/zcFU1ZcFLS66Id9rt1BACF/LoyO7nN6HdTSoPjBpglG0DLRjtmRJ5SjzzoRNJ/pdB57refwk811BL73vP+TV7t3BRUZm8f2u954TCbIcoBAVSeMug8BZlS8E/in2sFHfZ7xuQzC6PPXw3u2ey8MxgcnC1BLfzuQiC7yVCYbm02e/j21MyAff+uRYCM5cy3Z4wMfv+iZUrNTKVhZA0yqCmb8ncfrD/V1jU+p5yNafDF5ORK/cltPatLFSGFChQyCMZX3j2k6Q3dyphpPfHddHZxlAvX2C13RyfgvtwyEYUXBEL/5w0p1zDnwu8y9IeV8JDefJ5xaR4hYjIgkPdSkR5NSOk9x0SiRXsywXAwRCLjMp0PKhSKqssXEUc1iCEGygAZjNMswRgCJhcUZYBo80pv5Yt9MirmuTjm4ThEB4lzcim/uQ60QYSLVSgEAbLA8tznA9j2BWQ9ZOPww3aZ4zo2Rn8ec2CEcAldCbbSOhVSMSW8YYq4tpoEPxz/oHv507+TuDnFF6FrKebWCudUrRJHKQY/yfndkl3tSN4ycTuNpGnLOv7Jjts3nstvWIFtapaFEklvd9o7GTE9DtMM2zZnBmKW0xoBJ+Uv+SAPJfTm0fWASMaYhCDdBMAdwxwP6y+1RWYJ9gYlGOadRlMlDsGSbCUCDTQ8rvAl5ncTNmS1vivzmG7cYuiS2vzXW6khlDUkzRWPhYBlfYd2dgtREsp/1/vjbQvM11XtiyJ83a5i9ihhzPjBXf2o0ZMeG6J3FIPJ/LkGQ0wNttw8GozIWH25CVotCNW+oDX8k3IqQzfgyAvd2jAEMWMFEJ0fCGZ3AWq6uLVh4DAL205/NJ0cfdNv1OmLyvzN9mcMht0t0QPWeG28xWO30WlU5CaYAGFfn3N9P+xHiwudWOwUlB3NoBZ03ygVxdGoklNBkhGpPx2ots0xBzJK67dJEYDzrfNSz6MCGySBGzCWbMqJiFN5M15+JBS/N+OIFIjSC96sOy3yAyWobiLBZpNZUxvb1UOflGZ+EuEvWFUL7pwNfjXTpHJ+40Xn8ys5Y2iEcUAFevZyEFqwY1NJounuISiNSgDmWdZq3Dy82HGwHIpynR8MXYy0EswHV/etMU44zrIuM4HgJAu5xK2ZDiX+FGLOlacj58ql8l8WSqmb/TEvKIGfH276JBBMmXtDI2VvbVE3Gsml5phxS4lZabK0ts8xlDPqUPOXQ4AhIDBfzSGwhWCOnKg+BFZ4lyOvQ/M78cLJO9M51Po+JQ1orRJTKfE6eTytQMhEE6yZpHRiMxBPH3OCDXgKKB0hb/tNGnH8JMADTwkmkucDL6QAAAABJRU5ErkJggg==",
+        "name": {
+            "common": "Kosovo",
+            "ces": "Kosovo",
+            "deu": "Kosovo",
+            "fra": "Kosovo",
+            "hrv": "Kosovo",
+            "ita": "Kosovo",
+            "nld": "Kosovo",
+            "por": "Kosovo",
+            "rus": "Республика Косово",
+            "slk": "Kosovo",
+            "spa": "Kosovo",
+            "fin": "Kosovo",
+            "est": "Kosovo",
+            "zho": "科索沃",
+            "pol": "Kosowo",
+            "urd": "کوسووہ",
+            "kor": "코소보"
+        }
+    },
+    "AZ": {
+        "currency": [
+            "AZN"
+        ],
+        "callingCode": [
+            "994"
+        ],
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "flag": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAeCAMAAABpA6zvAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAitQTFRFAJnMAJjMAJjLB5zNFKHQGKLRDp/PApnMAZjMJajTd8jktuLx1O/42fP7yez3m9ntTLreC5/QAJrNAJnNB5vNZcLg3PH4/v////7++uTk77a16JiX6ZaV4qqsnrjKJabSGY26GIy5GY+8fcnj9vv9/////PT056Cg005OzDQ0yzAwzTMz1UhHrHmEMZC4F426sz9Fsz1DxoOJ9vj5/fX14YeHzDExzDMzzDIyvUBEtkhPtkpQzjIyzTEx0kJC9dLS6aenzTU1zTc30D09zC0t3nRz4Hx80D08zzc23HJy/vr6+uvr1VZWyzExzjk55pub4oyM78DA8cjI4YiIzj09556e8MXFzTg4yy4u3np6/fn5/v39/vv74YaG7LS06qyszjs73Xl58MTE/vz8//398snJ335+zz097LOz662tzjo6225u7bi4776+zjw8339//ff34oqK/fj4++7u1ltb5JWV3n198MHB3nl55pmZzz4+zjIzzTEy0T9A88vM67CwzTY2zzk53G5v3nZ3zzg5zjY2sz8zsz0xw3tv9PXx5JKSvEI5sz8ytUY6tUc7GY0zGIwzGI40b8KJ8Pnz666u1VhYzjY31lBRo4JnK5I/GI0yAJozAJkyBJo1Vbt3z+zZ/f79/e3u88TF7aep7KWm3ravkLuRHaVKAJkzAJgxGqNIZMGDpdu3xenSy+3YuebKiNKjPLRmBpw4AJgyAJgwA5o1DJ49D58/B5w5hA1wTgAAAAFiS0dEJcMByQ8AAAAJcEhZcwAAAEgAAABIAEbJaz4AAAF/SURBVDjLY2AY3oCRkShVTMwsrGzsTITUcXBycfPw8vELCGIYK4QEhEVExcQlJKWkZWTl5IVQAYMCAigqKauoqqlraGppaevo6ukrKiJJMhgggKGRsaqJqaaZORBYaFsaWFkjSTLYwIGtnb2qqoOjhTkYODm7uLq5uHvAZBnM4UDL00vV28cXyvPzDwgMClYPgeozR1LoG6qqGhYO5VhEREZFR8fERmBRaB6nqhoPFbdISExKVlVNSU1Lt8BUmKGqmgkzICs7J0ZVNTrXMw9Toa+/qmpQFowXkV/gFRNViM1qrewi1eISLZiRpWU55RWVVXCF1XBQU1unqlofDpVpaHRpanZpaYXJMrQhQHtHp2pRlxPYTDPH7p7ePiRJhn4EmDBx0mTVoilTw818p02fMXPWhAlIkgyzkcCcufPmL1BduGjxkqXLls+ZjQIYVqCAlatWr1m7bv2GjZs2o0qsQFO4YvOWrdu271i5ZcUKAgqBYM6cFVgAwwoiwVBQCAA1lnoBhKT9DQAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAxMy0xMC0wN1QxMzoxNToyMiswMjowMKNOdl8AAAAldEVYdGRhdGU6bW9kaWZ5ADIwMTMtMTAtMDdUMTM6MTU6MjIrMDI6MDDSE87jAAAAAElFTkSuQmCC",
+        "name": {
+            "common": "Azerbaijan",
+            "ces": "Ázerbájdžán",
+            "cym": "Aserbaijan",
+            "deu": "Aserbaidschan",
+            "fra": "Azerbaïdjan",
+            "hrv": "Azerbajdžan",
+            "ita": "Azerbaijan",
+            "jpn": "アゼルバイジャン",
+            "nld": "Azerbeidzjan",
+            "por": "Azerbeijão",
+            "rus": "Азербайджан",
+            "slk": "AzerbajǇan",
+            "spa": "Azerbaiyán",
+            "fin": "Azerbaidzan",
+            "est": "Aserbaidžaan",
+            "zho": "阿塞拜疆",
+            "pol": "Azerbejdżan",
+            "urd": "آذربائیجان",
+            "kor": "아제르바이잔"
+        }
+    },
+    "CY": {
+        "currency": [
+            "EUR"
+        ],
+        "callingCode": [
+            "357"
+        ],
+        "region": "Europe",
+        "subregion": "Eastern Europe",
+        "flag": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAeCAMAAABpA6zvAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAltQTFRF//////78///9//77///+/+yc//K6//Cz/+2i//74//zy/+2h/95V/+yd/95U/91Q//nh//Cx/8oA/9tD//TI//zv//PC//K9//XL/+mL/9IV/8gA/9k5//G0//O+/+Fh/++s/+eH/8sA/9AH/8wA/9Yo/+Bc/+Jq/+Z9/8wB/80A/8wD/9xF//PD//O9/9Qr/+eA/84G/9EO/9EP/84A/88D/84C/88E/9Uv//jX/+V3/84B/9o8/9k4/88H/+Rz///8/9Yq/80B/84D/9IS//bO/9xU/8kA/88F/9Qh/+Ff/9AT//PB/fK+/tg0/ssA/ssB/88C/80G//fV/v///vTI/u+s/fK9/v34/vXH/+BX/dcv/tEY/+Z//+Nv/+R0/9o+/9MZ/uV5/f///v76/f79yenG5PThoNupvOXA++2m/M4F/tMe//zu/P32/P36v+a/otqi6PbmzOrJ/f7+yOnIR7ZHmtaYPa88oNqg/v/+/vri/v79ptylPrA+mtaaSLdIxejF+v36ZMJkitGKveW9PK88UblQvOW/6/jy/f/+/v7+7vjuwufBVLtUPK48ueO5jNKM+/37+Pz4seCxQbRBgM2A4/Tje8p7Oa04LqsswObAwufCMa0xOKw4eMh44PPghc+FQrRCrN6s9/z3uOO4csdyYMBghs+Gj9OPdch1dsh2i9GLr9+viNCIZsJmbsZus+Gz2PDYlNWUYsFieMp4VbxVmNaYfMt8ZcJlQLNAjtKO1u/W+/774fPhhM6El9aX2/Hb0e3RzevN2O/YktSSf8x/3PHc/P78Kb+E8wAAAAFiS0dEAIgFHUgAAAAJcEhZcwAAAEgAAABIAEbJaz4AAAHXSURBVDjLY2AYLoCRCasoMwsSj4WRkRmrMgagKiZGmBpGZrAIKxua+YzMQIKdg5OBhZmZmRGshoubh5ePXwDFJBagdkYGQSEhYRFmEF9UTFxCUkpaSEaWgQlZHa84g5y8AoOikrKKiqqaugaflIqmlpC2ji4DCxPC1YwMetL6BoZCmkbGJiamZipKSkJKWmbmQhaWQDlGJIuZGaxUDIXMzM20tEyAwMwcCKyttWzkGJgZ0fzKaatiB1RibW0CAUC1SvYMjA4YgcLsqGVmggDWTkLO1i6uDBhhyMjg5u5h6gw0zxRoq6mplqeXt5KQDwMjA4aRvn7+ASpOgdZAjyhpqgQFh4SGhXNijZOIyKjoGBUzmdi4+ITEpOSUkBBsqlIZ0tIzMhmysnNygaaH5OUzFBQWFTOUYFFYWlZeUZlaVR3ByJhSk8pSW1ff0AgURgdVDE3NLa1t7R2dXQwM3T29ff0TJjZPAgpjgslTpk6bPmPmrNkMDHPmzpu/YOGixUuw+qWKYemy5SumrFzFwLB6zdp16zdsxGoeEDQxbNo8dcvWbZu39+3YuWv3HqAADrC3qmnf/gMHDx0+cvTY8aaqvQw4QeoJBPtEKgM+0H3iRCoQAAmGoQcAg35zKD2gjyEAAAAldEVYdGRhdGU6Y3JlYXRlADIwMTMtMTAtMDdUMTM6MTU6MTUrMDI6MDDoZk8yAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDEzLTEwLTA3VDEzOjE1OjE1KzAyOjAwmTv3jgAAAABJRU5ErkJggg==",
+        "name": {
+            "common": "Cyprus",
+            "ces": "Kypr",
+            "cym": "Cyprus",
+            "deu": "Zypern",
+            "fra": "Chypre",
+            "hrv": "Cipar",
+            "ita": "Cipro",
+            "jpn": "キプロス",
+            "nld": "Cyprus",
+            "por": "Chipre",
+            "rus": "Кипр",
+            "slk": "Cyprus",
+            "spa": "Chipre",
+            "fin": "Kypros",
+            "est": "Küpros",
+            "zho": "塞浦路斯",
+            "pol": "Cypr",
+            "urd": "قبرص",
+            "kor": "키프로스"
+        }
+    },
+    "LU": {
+        "currency": [
+            "EUR"
+        ],
+        "callingCode": [
+            "352"
+        ],
+        "region": "Europe",
+        "subregion": "Western Europe",
+        "flag": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAeBAMAAACs80HuAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAABhQTFRF/xkZ/9vb/wAA////7Pf/Lar/AJf/AJj/BnHklQAAAAJ0Uk5T/v6mqd4QAAAAAWJLR0QDEQxM8gAAAAlwSFlzAAAASAAAAEgARslrPgAAACtJREFUKM9jUMICGIaKIFYgiAUwGGMBg1HQBQtgCMUCGNKwAIZyLGAQCgIAGo+XaSlY34MAAAAldEVYdGRhdGU6Y3JlYXRlADIwMTMtMTAtMDdUMTM6MTQ6NDErMDI6MDC7Cw57AAAAJXRFWHRkYXRlOm1vZGlmeQAyMDEzLTEwLTA3VDEzOjE0OjQxKzAyOjAwyla2xwAAAABJRU5ErkJggg==",
+        "name": {
+            "common": "Luxembourg",
+            "ces": "Lucembursko",
+            "deu": "Luxemburg",
+            "fra": "Luxembourg",
+            "hrv": "Luksemburg",
+            "ita": "Lussemburgo",
+            "jpn": "ルクセンブルク",
+            "nld": "Luxemburg",
+            "por": "Luxemburgo",
+            "rus": "Люксембург",
+            "slk": "Luxembursko",
+            "spa": "Luxemburgo",
+            "fin": "Luxemburg",
+            "est": "Luksemburg",
+            "zho": "卢森堡",
+            "pol": "Luksemburg",
+            "urd": "لکسمبرگ",
+            "kor": "룩셈부르크"
+        }
+    },
+    "GS": {
+        "currency": [
+            "GBP"
+        ],
+        "callingCode": [
+            "500"
+        ],
+        "region": "Antarctic",
+        "subregion": "",
+        "flag": "data:image/png;base64,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",
+        "name": {
+            "common": "South Georgia",
+            "ces": "Jižní Georgie a Jižní Sandwichovy ostrovy",
+            "deu": "Südgeorgien und die Südlichen Sandwichinseln",
+            "fra": "Géorgie du Sud-et-les Îles Sandwich du Sud",
+            "hrv": "Južna Georgija i otočje Južni Sandwich",
+            "ita": "Georgia del Sud e Isole Sandwich Meridionali",
+            "jpn": "サウスジョージア・サウスサンドウィッチ諸島",
+            "nld": "Zuid-Georgia en Zuidelijke Sandwicheilanden",
+            "por": "Ilhas Geórgia do Sul e Sandwich do Sul",
+            "rus": "Южная Георгия и Южные Сандвичевы острова",
+            "slk": "Južná Georgia a Južné Sandwichove ostrovy",
+            "spa": "Islas Georgias del Sur y Sandwich del Sur",
+            "fin": "Etelä-Georgia ja Eteläiset Sandwichsaaret",
+            "est": "Lõuna-Georgia ja Lõuna-Sandwichi saared",
+            "zho": "南乔治亚",
+            "pol": "Georgia Południowa i Sandwich Południowy",
+            "urd": "جنوبی جارجیا",
+            "kor": "조지아"
+        }
+    },
+    "AD": {
+        "currency": [
+            "EUR"
+        ],
+        "callingCode": [
+            "376"
+        ],
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "flag": "data:image/png;base64,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",
+        "name": {
+            "common": "Andorra",
+            "ces": "Andorra",
+            "cym": "Andorra",
+            "deu": "Andorra",
+            "fra": "Andorre",
+            "hrv": "Andora",
+            "ita": "Andorra",
+            "jpn": "アンドラ",
+            "nld": "Andorra",
+            "por": "Andorra",
+            "rus": "Андорра",
+            "slk": "Andorra",
+            "spa": "Andorra",
+            "fin": "Andorra",
+            "est": "Andorra",
+            "zho": "安道尔",
+            "pol": "Andora",
+            "urd": "انڈورا",
+            "kor": "안도라"
+        }
+    },
+    "MT": {
+        "currency": [
+            "EUR"
+        ],
+        "callingCode": [
+            "356"
+        ],
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "flag": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAeCAMAAABpA6zvAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAXdQTFRF//////7+/O7u0RERzQAAzgEBzgAA/v////79//772LSTvKOFvqaMy6aC//Xx///+wKeLlJmcl56krJmC//Lp/v7/xKmMnJ2dn6KlsZyD/f////z6xKuTm52dnaCjsp+K/u/n/v7+//38//v3/vv3//36vqysoJ+fo6Ojo6Skrp6e+/Hu//76//v2t5+CvaSIo6KgoKCfoKCgnp+guqaRvaOGuaKIyqWB//bz/O3txauPlJqcnZ+hnJ6gpqams7OzsLCwpKSknJ+gsZyE//TtxqyQlZuenqCjnJ+ioKGhrKyrurq6tbW1oaGhnaChmJ+lsZ2F1rGQs5x/uaGGuaKKpKOhmpuboqKiqqmpnZ2dnJ6ft6SQuaCDtJ+Gx6J9//by//v5//jy/vjz//r1uqionp6eoKKiqpyc++/q//v1//jx//r3//r5xKyUsqCL/Ozl/f7/xKiMsZuCwKeMlJqemJ+mrJqD1bCOuJ+CuqOJyKN+//Xw//378+OKIgAAAAFiS0dEAIgFHUgAAAAJcEhZcwAAAEgAAABIAEbJaz4AAAD3SURBVDjLY2BAB4wMTMwsrGzoAC7PDgREKeTg5OQgQiE7Axc3Dy8fUBUhhfwCgkLCIoQVivKLiUtIElII9IaUtIysnLwCuyI7Ox6FSsoqqmrqGuqaWto6utI4FSoycOnp8xiIGxoZGZuYmplbMFhiVyjKYGVtY2tkZ++g7mjrJOTsgluhq5u7h6eXt4+vuo2ffwBOhYoMgUHBIaFh4RGRUdExsXHxuBQyMCQkJiWnpGr4pqVnZGZl4wtHYPjk5MrK5eUz4A8eBn7GAv5CcYkiYIDzE4zC4pLSMiKikJ2hvKKyqpqwQgaGGl1daeomXKKzwqjCQaYQAKkSMZESNvARAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDEzLTEwLTA3VDEzOjE0OjM2KzAyOjAwdGk57AAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxMy0xMC0wN1QxMzoxNDozNiswMjowMAU0gVAAAAAASUVORK5CYII=",
+        "name": {
+            "common": "Malta",
+            "ces": "Malta",
+            "deu": "Malta",
+            "fra": "Malte",
+            "hrv": "Malta",
+            "ita": "Malta",
+            "jpn": "マルタ",
+            "nld": "Malta",
+            "por": "Malta",
+            "rus": "Мальта",
+            "slk": "Malta",
+            "spa": "Malta",
+            "fin": "Malta",
+            "est": "Malta",
+            "zho": "马耳他",
+            "pol": "Malta",
+            "urd": "مالٹا",
+            "kor": "몰타"
+        }
+    },
+    "LI": {
+        "currency": [
+            "CHF"
+        ],
+        "callingCode": [
+            "423"
+        ],
+        "region": "Europe",
+        "subregion": "Western Europe",
+        "flag": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAeCAMAAABpA6zvAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAActQTFRFlXfplnjsl3jslXbpknTkkHLgj3HfkHLfkXPilHXnlnjrl3ntlXfq2h5iioX/i4b9lI/zqKPaj4r4iYT/m5brtrHKl5LvlZDzo57VoZzKnprYmpXvko3nlpKokYzxnprVoZzJop7Zko33k473paGWYmA8U1EyWFc7amhWV1VRPj0pXVtZZWNQVFI3T00vZmRBqaWpj4r7oZzlfXpRPDsePz4gPDsfMzMaGBcMMjEaFxcLNTQbOzocjIlmmpXxnZjtenhbMC8XU1IrUE8pPz4hXFoveXc+UVAqQUAhWFctUU8pMDAXjIl1l5L2l5Lgn5tzSkknp6RWsa9bkY9Lwb5jyMRnt7Rek5FMtrNelpRNRkUmpqKFkYztlZDmvLh4xsNlubZfq6lY9PB+3dpykpBL7el68e18o6BUvLhhvrthwr98k47sjIf/nZmnz8xp5eF2y8ho6eV44Nxzzcpp4d505uJ2w8Bk5eJ2x8Rjsa2ejYj+mZTqop5tZmQxRkQhNTQYLCsUKikTKioTMDAWPj0dVlQphoRJoZ3NiYb/iob/bWvIQUCALy9eJSVLICBBHh49Hx8/IiNGKipVODhwWFemhYH05Q9M5BBN////IjDadQAAAA50Uk5T/v7+/v7+/v7+/v7+/v7BShreAAAAAWJLR0SYdtEGPgAAAAlwSFlzAAAASAAAAEgARslrPgAAAOJJREFUOMtj4CMSMJCukJ9IhQKCQgQVCoOAiKgYiMKrUFxCUkpaRlZORF5BUQmPQmUVVTV1DU0tbR1dPX0DQ5wKhY2MTUzNzC0sraxNTG1s7YRxKrR3cHRydnF1c/fw9PL28cWpkM/PPyAwKDgkNCw8IjIqOga31bFx8QmJSckpqWnpGZlZ2bhNzMnNyy8oLCouKS0rr6iswu1r4eqa2rr6hsam5pbWtnZcIcnQ0dHR2dXd09vXP2HipMlTpnZ2YAcMIMDIxMzCysbOwcnFzcOAC/ASCRimEQkYphMJRhWOHIUA+L2cEmYnwtMAAAAldEVYdGRhdGU6Y3JlYXRlADIwMTMtMTAtMDdUMTM6MTQ6MzArMDI6MDAXuQzWAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDEzLTEwLTA3VDEzOjE0OjMwKzAyOjAwZuS0agAAAABJRU5ErkJggg==",
+        "name": {
+            "common": "Liechtenstein",
+            "ces": "Lichtenštejnsko",
+            "deu": "Liechtenstein",
+            "fra": "Liechtenstein",
+            "hrv": "Lihtenštajn",
+            "ita": "Liechtenstein",
+            "jpn": "リヒテンシュタイン",
+            "nld": "Liechtenstein",
+            "por": "Liechtenstein",
+            "rus": "Лихтенштейн",
+            "slk": "Lichtenštajnsko",
+            "spa": "Liechtenstein",
+            "fin": "Liechenstein",
+            "est": "Liechtenstein",
+            "zho": "列支敦士登",
+            "pol": "Liechtenstein",
+            "urd": "لیختینستائن",
+            "kor": "리히텐슈타인"
+        }
+    },
+    "SM": {
+        "currency": [
+            "EUR"
+        ],
+        "callingCode": [
+            "378"
+        ],
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "flag": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAeCAIAAADRv8uKAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAAASAAAAEgARslrPgAABFtJREFUSMftlltsFGUUx8/5Zmane9/tWpbtIi1tKbfSBKmpNIRLAom+KBhFDTEGNSZqjAkmxj7ZxBjffdCEeIkvBtRoAKWCAQtiMDUFhZRq7YW2u5Xt3juzc585PpSQ+MBMKxge9GTe5vvO//ud+c85HxIR3I1gd0X1f+Elxm2Zg1+yGhEAIQABAyCEBXMiIv67xIiIQICsNP2hUhkCZIiwVNWlEhMAZmYmpPKwP9kmSod1yhY0US9mkvf2RKNRIlr8CZZEjOWKlJ892dLaGj7XX5p8QDtfTVybSTXFp8dPEQCAc+dLTUREdigSFgzMb3/c2PcaDQ06Xx2Vex4uvNobSjQhABHQoh2Hi+5cZDv2mcvfty/r0I5tFxJ/gD+NnOXkcnrgmerut2raRFf9ppgYISAE74JzfX19nqyIWJGqX/z8+VOHntsdKybDP5bBlPiAbNuCqPCoflqZeVceEAx7fbhN5MXFaPMevAQEgACvfPTSl4PHNzRhWvlgInRgNrRNZgIAS1qT66zj+6uHJefAEemYBc7BNc/Swh53YY8FCIqu6EptWpvavnLLm5tr1yJ1avuhkmKtCsCoDBDkf6g9uTOzdqeSn8L6/rmz+9IPrQilPB3OV0x3ZuJZsPfkO+VKbl71j+TG7OhBs6RWjdqcVMubkWWaPGHFNurpUXFMCmxO2f4/tXysLmUSuSPxPWfnXSsNPGBuSjWqmWBgxRW2tdvIYtAPnNkg8hWFTwTjaU11NHVY2BPPjxgh6eUr56vWGg4V91+GLxiuxOQAF9AT99P86uWs9dSsuadx9OylI2aiQ9dmpUDzULbQzC4WKfSr2boiOqlwHVllnwE63jj2rYUF94ogAppccEOOddYHZy4Vp85fT21K9l3Wn2Dst3i1TeML6zKH32vc2670Mx1nEp0EPh86nu5iBOD6IDk2RtLBePtQpbirpelo+HUyoFXqF3gtalzcmj32bXRX0V9XHwtmY90N9JMIGQcEAnLP7NG5CMjhfKSV9LGvy7NXTw8PNlx5/2PnReLLAVXhI4ULka4T8oNpeWQ8JPvDAzreo1ILoelJzIX3v+H2mihgqRWsW5vq3NsUzwgd6fXPv9CSHB1llAFTbpzjdjy6cc1n8n1bQvzGupWD5W6Z4hFHMZjP4xumTpRvjQsc0Or81S3J4Pp4qKu5uVgoLI+wzOTE2xdyj4S/scLNv5Q29O5olsQGxYJgIPDdeDZTkwZqgUKihTkm3ZrbfSyiQPa4r2GbnzKm8/Tp610xcoCrqI2P9Zy7jN1N3O+CUto93rMqbEwqIJvzn7TyZ5S4KvqQbHKtthvxQtiM5yzDAhQFXrWJCHyck6DCtLUqyOQEN5ejlO3YIkNEsE2D4wQbGUe2e1pvYQRygDEEutGMiAAt4EXQbeAsEgQ0blqJEIEW7kNeQwK8ggARbgzPhesVAAhg2sABgIDG3zSIFrZ4pv2Ht8ybqRejcSeFbz/+e8J/AeDSLKySWtQHAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDEzLTEwLTA3VDEzOjE0OjI2KzAyOjAwuMM5cgAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxMy0xMC0wN1QxMzoxNDoyNiswMjowMMmegc4AAAAASUVORK5CYII=",
+        "name": {
+            "common": "San Marino",
+            "ces": "San Marino",
+            "deu": "San Marino",
+            "fra": "Saint-Marin",
+            "hrv": "San Marino",
+            "ita": "San Marino",
+            "jpn": "サンマリノ",
+            "nld": "San Marino",
+            "por": "San Marino",
+            "rus": "Сан-Марино",
+            "slk": "San Maríno",
+            "spa": "San Marino",
+            "fin": "San Marino",
+            "est": "San Marino",
+            "zho": "圣马力诺",
+            "pol": "San Marino",
+            "urd": "سان مارینو",
+            "kor": "산마리노"
+        }
+    },
+    "MC": {
+        "currency": [
+            "EUR"
+        ],
+        "callingCode": [
+            "377"
+        ],
+        "region": "Europe",
+        "subregion": "Western Europe",
+        "flag": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAeBAMAAACs80HuAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAABVQTFRF8xgw8xkx8xQs9Cg+/u/x//////7+xfBoaAAAAAFiS0dEBfhv6ccAAAAJcEhZcwAAAEgAAABIAEbJaz4AAAAmSURBVCjPY2AYwUAQC2BQwgIYjLEABhcsgCEUC2BIwwKwqxwZggCotWuVLjeL7gAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAxMy0xMC0wN1QxMzoxNDozMCswMjowMBe5DNYAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMTMtMTAtMDdUMTM6MTQ6MzArMDI6MDBm5LRqAAAAAElFTkSuQmCC",
+        "name": {
+            "common": "Monaco",
+            "ces": "Monako",
+            "deu": "Monaco",
+            "fra": "Monaco",
+            "hrv": "Monako",
+            "ita": "Principato di Monaco",
+            "jpn": "モナコ",
+            "nld": "Monaco",
+            "por": "Mónaco",
+            "rus": "Монако",
+            "slk": "Monako",
+            "spa": "Mónaco",
+            "fin": "Monaco",
+            "est": "Monaco",
+            "zho": "摩纳哥",
+            "pol": "Monako",
+            "urd": "موناکو",
+            "kor": "모나코"
+        }
+    },
+    "VA": {
+        "currency": [
+            "EUR"
+        ],
+        "callingCode": [
+            "3906698",
+            "379"
+        ],
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "flag": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAeCAMAAABpA6zvAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAnlQTFRF/+AA/+AB/98A/+IR//3u///////++vfC/v75/v7//Pvx/v7+///9//7+/fzz+/nm/PjD+/ne/Pvw+fjg9/Go+PCI9/GZ+PTG//3t/fzv/v789fTu+fr++fbS9++p9+2M9++f9/K8/P3/9/by/v79+/v5/Pz7//zs9vLB3dmn6unf8fH59PPW/f7G/f+j/f+6+PbH8fH16+vn5uTG4N6++Pj4//zt8/Pyt7au2da8+fv67ufS4Z5d3IVC4ZRL7dqu9vr/8O/k6Nw39e6D3t7ivLy6xsbLv72v1dO29PH168S44K2s4rev9Ozz6urN59tF8Odu9ulB9etm+/ng///vzs/TsrKxz8/P1dTN0M662Ne36O7Q/P/97/bY7eqb49+t6eOG9OyA8udR8eQt/PnS4ODfubm45eXg8/Pz9vbyxcbU18XK9+dh9O+h9vf/8PH+7eNY9OlQ/Pzz/v//7+/x9fb+9vb7+fn/+frKrlocyKaG9/3/9/f8+vjb/v3q+Pn9/Pzy+PS/9/Xd9fCk+Okqv2dBtZKjx8zG8e/k5+fn7/D1///0/v73/vzs4+G/6uBY7+dy7uNl5d5L3reUxHV+15ydy8GjwcGryMfKxMTHzsue/fzp//3r8Ohw9vK86txm58mqz5Ka7MrJvqyu5+vuwsLH7Ozv7OR79/K09OHf3sNL/f/ny4eO9+jozdHJzrCt+/HxxMTC7e3s4eDZ3ddw7d5hz5EtyLF77+r0yHx568/W6NiUs4Rrsn6Ew8jG2tSJ//71/f3+/Pz6/Prg8+Pa687U7tTTvmlp4ba28NbX9ufn9PX19/f3///6vXBw7djY/v39+fPz/Pn5CdrmUAAAAAFiS0dEBfhv6ccAAAAJcEhZcwAAAEgAAABIAEbJaz4AAAFWSURBVDjLY2BAB4xMzCysbKzogGGEKGRjZecgzkROLm6CCnlYeVn5+AUEheCOwGUiGxursIiomDiYhVOhBKuklLSMrJy8gqKSsoqqGk6F6qwamlraOrp6+gaGRsYmpjgVmrGaW1haWdvY2tk7ODo5g92J3Y0urm7uHp5e3j6+fv4BgUHBQKVYFYaEhoVHREZFx8TGxSckJiWnAEMBh2dS09IzMrOyc3Lz8gsKi0B2Y1dYzFZSWlZeUVlVnVFTWwc0D2c41jc0NjW3tLa1d3R2dffg9HUva1//hImTJk+ZOm36jJmzZuO0eg7r3HmsrPMXLFy0eAkr69JlrNw4FS5fwbpy1eo1a9et38C6cRNOhb2sm7ds3bZ9x85du/fs3bf/AJ5EcfDQ4SNHjx0/cfLU6TNn2fAlM6AkL+u586zcBBMum8qFCxcv8XJzE5HCic9cvIMjXwMAtnNhztqhnUkAAAAldEVYdGRhdGU6Y3JlYXRlADIwMTMtMTAtMDdUMTM6MTQ6NDgrMDI6MDAuk0uoAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDEzLTEwLTA3VDEzOjE0OjQ4KzAyOjAwX87zFAAAAABJRU5ErkJggg==",
+        "name": {
+            "common": "Vatican City",
+            "ces": "Vatikán",
+            "deu": "Vatikanstadt",
+            "fra": "Cité du Vatican",
+            "hrv": "Vatikan",
+            "ita": "Città del Vaticano",
+            "jpn": "バチカン市国",
+            "nld": "Vaticaanstad",
+            "por": "Cidade do Vaticano",
+            "rus": "Ватикан",
+            "slk": "Vatikán",
+            "spa": "Ciudad del Vaticano",
+            "fin": "Vatikaani",
+            "est": "Vatikan",
+            "zho": "梵蒂冈",
+            "pol": "Watykan",
+            "urd": "ویٹیکن سٹی",
+            "kor": "바티칸"
+        }
+    }
+}

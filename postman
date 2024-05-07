@@ -1,0 +1,33 @@
+Get https://www.payride.ng/api/sample/chat/driver/admin?driver_id=1
+8|qXFEGqEJfoRQR8ATRRXiXV25iDBEz1Mg2Lz5u8XJ
+
+https://www.payride.ng/api/rider/login
+{
+"email": "pavi@yopmail.com",
+"password" : "123456789",
+"device_type" : "I",
+"fcm_token" : "FCM Token2",
+"timezone" : "Asia/Kolkata"
+}
+
+
+
+
+post 
+https://www.payride.ng/api/rider/book-ride  5|Kcn18QGGmUIUKKh7AXF5zxGv5d57M4q5x7kAGWix
+
+{
+    "ride_type" : "now",
+    "ride_state" : "personal",
+    "service_type_id" : "1",
+    "pickup_address" : "Chandigarh",
+    "dropoff_address" : "Panchkula",
+    "pickup_latitude" : "30.7184",
+    "pickup_longitude" : "76.6542",
+    "dropoff_latitude" : "30.6754",
+    "dropoff_longitude" : "76.7405",
+    "ride_distance_in_km" : "12.5",
+    "ride_time_in_mins" : "25",
+    "payment_method" : "cash",
+    "coordinates":"[{\"latitude\":30.73104,\"longitude\":76.70543},{\"latitude\":30.73111,\"longitude\":76.70435},{\"latitude\":30.73113,\"longitude\":76.70409},{\"latitude\":30.73114,\"longitude\":76.70393},{\"latitude\":30.73018,\"longitude\":76.70381},{\"latitude\":30.72946,\"longitude\":76.70376},{\"latitude\":30.72805,\"longitude\":76.70362},{\"latitude\":30.72765,\"longitude\":76.70366},{\"latitude\":30.72733,\"longitude\":76.70373},{\"latitude\":30.72674,\"longitude\":76.70393},{\"latitude\":30.72651,\"longitude\":76.70405},{\"latitude\":30.72614,\"longitude\":76.70431},{\"latitude\":30.72572,\"longitude\":76.70468},{\"latitude\":30.7253,\"longitude\":76.70506},{\"latitude\":30.7242,\"longitude\":76.70604},{\"latitude\":30.72324,\"longitude\":76.70454},{\"latitude\":30.72269,\"longitude\":76.70355},{\"latitude\":30.72235,\"longitude\":76.70307},{\"latitude\":30.72225,\"longitude\":76.70287},{\"latitude\":30.72217,\"longitude\":76.70282},{\"latitude\":30.72144,\"longitude\":76.70174},{\"latitude\":30.71998,\"longitude\":76.69942},{\"latitude\":30.71946,\"longitude\":76.6986},{\"latitude\":30.71812,\"longitude\":76.69644},{\"latitude\":30.71732,\"longitude\":76.6951},{\"latitude\":30.71573,\"longitude\":76.69263},{\"latitude\":30.71516,\"longitude\":76.69167},{\"latitude\":30.71485,\"longitude\":76.69125},{\"latitude\":30.71423,\"longitude\":76.69178},{\"latitude\":30.71415,\"longitude\":76.69167},{\"latitude\":30.7136,\"longitude\":76.69216},{\"latitude\":30.71202,\"longitude\":76.6935},{\"latitude\":30.7115,\"longitude\":76.69392},{\"latitude\":30.71147,\"longitude\":76.69387},{\"latitude\":30.7109,\"longitude\":76.69291},{\"latitude\":30.71031,\"longitude\":76.69346},{\"latitude\":30.70978,\"longitude\":76.69386},{\"latitude\":30.70907,\"longitude\":76.69446},{\"latitude\":30.70912,\"longitude\":76.69457},{\"latitude\":30.70947,\"longitude\":76.69515}]"
+}
